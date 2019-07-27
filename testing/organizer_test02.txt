@@ -1,0 +1,1206 @@
+Begining of gather
+1
+London,UnitedKingdom
+2.75
+Dorm/Residence Hall
+2
+London,UnitedKingdom
+2.5
+Dorm/Residence Hall
+3
+London,UnitedKingdom
+2.5
+Dorm/Residence Hall
+4
+London,UnitedKingdom
+2.5
+Dorm/Residence Hall
+5
+London,UnitedKingdom
+2.75
+Dorm/Residence Hall
+6
+Prague,CzechRepublic
+2.7
+Dorm/Residence Hall
+7
+Prague,CzechRepublic
+2.5
+Dorm/Residence Hall
+8
+Rome,Italy
+2.75
+Apartment, Local host family
+9
+Salzburg,Austria
+2.5
+Apartment, Dorm/Residence Hall, Homestay
+10
+Salzburg,Austria
+2.0
+Dorm/Residence Hall
+11
+Stellenbosch,SouthAfrica
+2.5
+Dorm/Residence Hall
+12
+Stellenbosch,SouthAfrica
+3.2
+Dorm/Residence Hall
+13
+Stellenbosch,SouthAfrica
+2.5
+Dorm/Residence Hall
+14
+Stellenbosch,SouthAfrica
+2.8
+Dorm/Residence Hall
+15
+Moscow,Russia
+2.5
+Dorm/Residence Hall, Local host family
+16
+Amman,Jordan
+3.0
+Apartment, Local host family
+17
+Amman,Jordan
+3.0
+Apartment, Local host family
+18
+Cochabamba,Bolivia
+
+
+19
+Petersfield,Jamaica
+
+
+20
+Dublin,Ireland
+2.0
+Apartment
+21
+Athens,Greece
+2.3
+Apartment
+22
+London,UnitedKingdom
+2.3
+Apartment, Dormitory
+23
+London,UnitedKingdom
+2.0
+Apartment, Dormitory
+24
+Rome,Italy
+2.3
+Apartment
+25
+Florence,Italy
+2.5
+Apartment
+26
+Sydney,Australia
+2.5
+Apartment
+27
+Athens,Greece
+2.8
+Apartment
+28
+Canberra,Australia
+3.0
+Dorm/Residence Hall
+29
+Bangor,UnitedKingdom
+2.5
+Apartment
+30
+Ballyvaughan,Ireland
+2.8
+Apartment
+31
+London,UnitedKingdom
+3.0
+Apartment, Dorm/Residence Hall
+32
+Dublin,Ireland
+2.8
+Apartment
+33
+Dublin,Ireland
+2.8
+Apartment
+34
+Edinburgh,UnitedKingdom
+2.8
+Apartment, Dormitory
+35
+Christchurch,NewZealand
+2.5
+Camping, Dormitory
+36
+Perugia,Italy
+2.5
+Apartment
+37
+Glasgow,UnitedKingdom
+2.8
+Apartment, Dormitory
+38
+London,UnitedKingdom
+2.8
+Dormitory
+39
+Brisbane,Australia
+2.5
+Apartment, Dormitory
+40
+Florence,Italy
+2.5
+Apartment
+41
+Florence,Italy
+2.5
+Apartment
+42
+Townsville,Australia
+2.8
+Apartment, Dormitory
+43
+London,UnitedKingdom
+3.3
+Apartment, Dorm/Residence Hall
+44
+London,UnitedKingdom
+3.3
+Dormitory
+45
+London,UnitedKingdom
+2.8
+Apartment, Dormitory
+46
+London,UnitedKingdom
+2.5
+Apartment
+47
+London,UnitedKingdom
+3.3
+Apartment, Dorm/Residence Hall
+48
+Sydney,Australia
+2.5
+Apartment, Dorm/Residence Hall
+49
+Maynooth,Ireland
+3.0
+Apartment
+50
+Edinburgh,UnitedKingdom
+2.8
+Apartment
+51
+Galway,Ireland
+3.0
+Apartment
+52
+Cambridge,UnitedKingdom
+3.2
+Apartment, Dorm/Residence Hall
+53
+London,UnitedKingdom
+3.0
+Dormitory
+54
+Belfast,Ireland
+3.0
+Dormitory
+55
+Brisbane,Australiahttps://educationabroad.osu.edu/index.cfm?FuseAction=Programs.SimpleSearch
+2.5
+Apartment
+56
+Rome,Italy
+2.8
+Apartment
+57
+Glasgow,UnitedKingdom
+3.0
+Apartment
+58
+Edinburgh,UnitedKingdom
+2.0
+Apartment
+59
+Edinburgh,UnitedKingdom
+3.0
+Apartment, Dormitory
+60
+Edinburgh,UnitedKingdom
+2.9
+Dorm/Residence Hall
+61
+London,UnitedKingdom
+3.0
+Apartment
+62
+London,UnitedKingdom
+2.5
+Dormitory, Homestay
+63
+Aberdeen,UnitedKingdom
+2.8
+Apartment
+64
+Brisbane,Australia
+3.0
+Apartment
+65
+Dublin,Ireland
+2.8
+Apartment
+66
+Glasgow,UnitedKingdom
+2.8
+Apartment, Dorm/Residence Hall
+67
+London,UnitedKingdom
+3.3
+Apartment
+68
+Limerick,Ireland
+2.8
+Apartment, Student Residence
+69
+London,UnitedKingdom
+2.8
+Apartment, Dormitory
+70
+Sydney,Australia
+2.8
+Student Residence
+71
+Sydney,Australia
+2.8
+Student Residence
+72
+Perugia,Italy
+2.5
+Apartment
+73
+Dublin,Ireland
+3.3
+Apartment
+74
+Perugia,Italy
+2.5
+Apartment, Homestay
+75
+Perugia,Italy
+2.5
+Apartment, Homestay
+76
+Perugia,Italy
+2.5
+Apartment, Homestay
+77
+Perugia,Italy
+2.5
+Apartment, Homestay
+78
+Perugia,Italy
+2.5
+Apartment, Homestay
+79
+Cork,Ireland
+3.0
+Apartment
+80
+Dublin,Ireland
+3.0
+Apartment
+81
+London,UnitedKingdom
+3.3
+Apartment, Dorm/Residence Hall
+82
+London,UnitedKingdom
+3.3
+Apartment
+83
+Aberdeen,UnitedKingdom
+2.8
+Apartment, Dorm/Residence Hall
+84
+GreatBarrierReef,Australia
+3.0
+Apartment
+85
+Christchurch,NewZealand
+2.8
+Apartment
+86
+Edinburgh,UnitedKingdom
+3.0
+Apartment, Dorm/Residence Hall
+87
+Glasgow,UnitedKingdom
+2.8
+Apartment, Dormitory
+88
+Limerick,Ireland
+2.9
+Apartment
+89
+Limerick,Ireland
+2.5
+Apartment
+90
+Manchester,UnitedKingdom
+3.0
+Dormitory
+91
+Melbourne,Australia
+3.0
+Apartment, Student Residence
+92
+Sydney,Australia
+3.0
+Apartment, Student Residence
+93
+Dunedin,NewZealand
+3.0
+Apartment
+94
+Oxford,UnitedKingdom
+3.7
+Dormitory
+95
+Brisbane,Australia
+3.0
+Apartment, Student Residence
+96
+St.Andrews,UnitedKingdom
+3.2
+Dorm/Residence Hall
+97
+Stirling,UnitedKingdom
+2.9
+Apartment, Dormitory
+98
+Stirling,UnitedKingdom
+2.9
+Apartment, Dormitory
+99
+Sydney,Australia
+3.0
+Apartment, Student Residence
+100
+Sydney,Australia
+2.5
+Student Residence
+101
+London,UnitedKingdom
+2.7
+Apartment
+102
+Winchester,UnitedKingdom
+2.8
+Residence Hall
+103
+Sydney,Australia
+3.0
+Apartment, Student Residence
+104
+York,UnitedKingdom
+3.0
+Dorm/Residence Hall
+105
+Wellington,NewZealand
+2.7
+Apartment
+106
+London,UnitedKingdom
+3.3
+Dorm/Residence Hall
+107
+Atherton,Australia
+2.75
+Homestay, Hotel/Hostel
+108
+Bordeaux,France
+2.0
+Dormitory, Hotel
+109
+Belgrade,Serbia
+2.7
+Homestay
+110
+BeerSheva ,Israel
+2.5
+Dormitory
+111
+Berlin,Germany
+2.0
+Hotel/Hostel
+112
+Aix-en-Provence,France
+2.0
+Homestay, Hotel/Hostel
+113
+CampoGrande,Brazil
+2.0
+Homestay, Hotel/Hostel
+114
+Cardiff,UnitedKingdom
+2.0
+Apartment, Hotel/Hostel
+115
+Prague,CzechRepublic
+3.0
+Apartment
+116
+LaPaz,Bolivia
+2.0
+Homestay
+117
+Guayaquil,Ecuador
+2.0
+Homestay
+118
+Arusha,Tanzania
+2.0
+Guest House
+119
+Ancud,Chile
+2.5
+Hotel/Hostel
+120
+Amman,Jordan
+3.0
+Apartment, Local host family
+121
+Hyderabad,India
+3.0
+Dorm/Residence Hall, Homestay
+122
+Amman,Jordan
+2.75
+Apartment, Homestay
+123
+Amman,Jordan
+2.8
+Apartment
+124
+St.Petersburg,Russia
+2.75
+Homestay, Hotel/Hostel
+125
+Seville,Spain
+2.7
+Homestay
+126
+Cahuita,CostaRica
+2.0
+Homestay, Hotel/Hostel
+127
+Guanacaste,CostaRica
+
+
+128
+VoltaRegion,Ghana
+
+
+129
+Azrou,Morocco
+
+
+130
+Nan,Thailand
+
+
+131
+Athens,Greece
+2.0
+Apartment, Homestay
+132
+Brno,CzechRepublic
+2.5
+Dormitory
+133
+Aalborg,Denmark
+2.0
+Dormitory
+134
+Beijing,China
+2.0
+Hotel
+135
+Copenhagen,Denmark
+3.0
+Apartment, Dorm/Residence Hall, Homestay
+136
+Stockholm,Sweden
+3.0
+Dorm/Residence Hall, Local host family, Student Residence
+137
+Copenhagen,Denmark
+3.0
+Apartment, Dorm/Residence Hall
+138
+Copenhagen,Denmark
+3.0
+Apartment, Dorm/Residence Hall
+139
+Stockholm,Sweden
+3.0
+Dorm/Residence Hall, Local host family, Student Residence
+140
+Berlin,Germany
+2.0
+Dormitory
+141
+Caernarfon,UnitedKingdom
+2.0
+Hotel
+142
+Bath,UnitedKingdom
+2.5
+Hotel/Hostel
+143
+Cambridge,UnitedKingdom
+2.5
+Hotel/Hostel
+144
+Basel,Switzerland
+2.0
+Apartment, Hotel, Hotel/Hostel
+145
+Berlin,Germany
+2.7
+Hotel
+146
+Amsterdam,Netherlands
+2.5
+Hotel/Hostel
+147
+Aachen,Germany
+2.5
+Hotel/Hostel
+148
+Agra,India
+2.5
+Guest House, Hotel
+149
+Kingston,Jamaica
+2.0
+Townhouse
+150
+Berlin,Germany
+3.0
+Hotel/Hostel
+151
+Colon,Panama
+3.0
+Hotel/Hostel
+152
+Almhult,Sweden
+3.0
+Hotel
+153
+Central,HongKong
+3.0
+Hotel/Hostel
+154
+Amman,Jordan
+3.0
+Dorm/Residence Hall, Local host family
+155
+Nantes,France
+3.0
+Apartment, Homestay
+156
+Copenhagen,Denmark
+3.0
+Apartment, Dormitory
+157
+Perth,Australia
+3.0
+Apartment, Dormitory
+158
+Strasbourg,France
+3.0
+Apartment
+159
+Rotterdam,Netherlands
+3.0
+Apartment, Dormitory
+160
+Kowloon,HongKong
+3.0
+Apartment, Dormitory
+161
+Beijing,China
+3.0
+Apartment
+162
+Tokyo,Japan
+3.0
+Apartment, Dormitory
+163
+BrasBasah,Singapore
+3.0
+Apartment
+164
+Bangkok,Thailand
+3.0
+Apartment
+165
+Santiago,Chile
+3.0
+Apartment
+166
+Madrid,Spain
+3.0
+Apartment, Homestay
+167
+Milan,Italy
+3.0
+Apartment, Dormitory
+168
+Dublin,Ireland
+3.3
+Apartment, Dormitory
+169
+Vienna,Austria
+3.0
+Apartment, Dormitory
+170
+Vallendar,Germany
+3.0
+Apartment
+171
+Butare,Rwanda
+2.0
+Hotel/Hostel
+172
+Cochabamba,Bolivia
+2.0
+Hotel/Hostel
+173
+Edinburgh,UnitedKingdom
+2.0
+Apartment
+174
+Balotonfured,Hungary
+2.0
+Hotel/Hostel
+175
+Cadiz,Spain
+2
+Local host family
+176
+Entebbe,Uganda
+2.0
+Homestay, Hotel/Hostel
+177
+Dresden,Germany
+2.0
+Residence Hall
+178
+Athens,Greece
+2.0
+Hotel/Hostel
+179
+Jalova,CostaRica
+
+
+180
+DawasamuDistrict,Fiji
+
+
+181
+Kerala,India
+
+
+182
+ChiangMai,Thailand
+
+
+183
+Haifa,Israel
+3.0
+Dormitory
+184
+Jerusalem,Israel
+3.0
+Dormitory
+185
+Cachoeira,Brazil
+2.75
+Hotel/Hostel
+186
+Sapporo,Japan
+3.0
+Dormitory
+187
+Aix-en-Provence,France
+2.5
+Local host family
+188
+Borgarnes,Iceland
+2.75
+Hotel/Hostel
+189
+Nantes,France
+2.75
+Local host family
+190
+Paris,France
+2.75
+Local host family
+191
+Shanghai,China
+3.0
+Apartment
+192
+Shanghai,China
+3.0
+Apartment
+193
+DaresSalaam,Tanzania
+2.5
+Dormitory
+194
+Bali,Indonesia
+2.8
+Dorm/Residence Hall, Hotel
+195
+Bali,Indonesia
+2.0
+Hotel
+196
+Barcelona,Spain
+2.8
+Local host family
+197
+Barcelona,Spain
+3.0
+Local host family
+198
+BuenosAires,Argentina
+3.0
+Local host family
+199
+BuenosAires,Argentina
+3.0
+Local host family
+200
+Florianopolis,Brazil
+3.0
+Local host family
+201
+Granada,Spain
+2.8
+Local host family
+202
+Granada,Spain
+2.8
+Local host family
+203
+Heredia,CostaRica
+3.0
+Local host family
+204
+Lima,Peru
+3.0
+Local host family
+205
+Lima,Peru
+3.0
+Homestay
+206
+Lima,Peru
+3.4
+Local host family
+207
+Paris,France
+2.5
+Apartment, Local host family, Other
+208
+Paris,France
+2.5
+Apartment, Local host family, Other
+209
+Salamanca,Spain
+2.5
+Local host family
+210
+SanJose,CostaRica
+3.0
+Local host family
+211
+Seoul,SouthKorea
+2.5
+Dorm/Residence Hall
+212
+Seoul,SouthKorea
+2.5
+Dorm/Residence Hall, Independent Housing
+213
+Seoul,SouthKorea
+2.5
+Dorm/Residence Hall
+214
+Barranquilla,Colombia
+3.0
+Local host family
+215
+Valencia,Spain
+2.8
+Local host family
+216
+VinadelMar,Chile
+3.0
+Local host family
+217
+VinadelMar,Chile
+3.0
+Local host family
+218
+VinadelMar,Chile
+3
+Local host family
+219
+Lecce,Italy
+2.5
+Apartment, Homestay
+220
+Bologna,Italy
+2.5
+Hotel
+221
+Seoul,SouthKorea
+
+
+222
+Aix-en-Provence,France
+2.0
+Homestay
+223
+Rome,Italy
+2.5
+Hotel/Hostel
+224
+London,UnitedKingdom
+2.0
+Hotel
+225
+Dedza,Malawi
+2.0
+Guest House, Hotel/Hostel
+226
+Shanghai,China
+3.0
+Dormitory, Independent Housing
+227
+Beijing,China
+3.0
+Dormitory, Independent Housing
+228
+Chongqing,China
+3.0
+Dormitory, Independent Housing
+229
+Passau,Germany
+3.0
+Dormitory, Independent Housing
+230
+CividaledelFriuli,Italy
+3.0
+Dorm/Residence Hall, Hotel
+231
+Christchurch,NewZealand
+2.75
+Hotel/Hostel
+232
+Drobak,Norway
+3.2
+Hotel/Hostel
+233
+Quito,Ecuador
+3.0
+Local host family
+234
+Boquete,Panama
+2.5
+Hotel
+235
+Turin,Italy
+3.0
+Dormitory
+236
+RiodeJaneiro,Brazil
+3.4
+Homestay
+237
+Curitiba,Brazil
+2.7
+Homestay
+238
+Bonn,Germany
+3.0
+Hotel/Hostel
+239
+Tokyo,Japan
+3.0
+Dormitory, Independent Housing
+240
+Sorrento,Italy
+3.0
+Apartment, Dormitory, Homestay
+241
+Edinburgh,UnitedKingdom
+2.5
+Hotel/Hostel
+242
+Accra,Ghana
+2.75
+Ship Cabin
+243
+Amsterdam,Netherlands
+2.75
+Ship Cabin
+244
+Accra,Ghana
+2.75
+Ship Cabin
+245
+Accra,Ghana
+2.5
+Ship Cabin
+246
+Siena,Italy
+2.5
+Homestay
+247
+FortDauphin(Tolagnaro),Madagascar
+2.5
+Hotel/Hostel, Local host family, Other
+248
+Antananarivo,Madagascar
+2.5
+Guest House, Hotel/Hostel, Local host family
+249
+Gulu,Uganda
+2.8
+Homestay
+250
+Dakar,Senegal
+2.5
+Hotel/Hostel, Local host family, Other
+251
+CapeTown,SouthAfrica
+2.8
+Homestay, Hotel
+252
+Durban,SouthAfrica
+2.8
+Homestay, Hotel
+253
+CapeTown,SouthAfrica
+2.8
+Homestay
+254
+CapeTown,SouthAfrica
+2.5
+Hotel/Hostel, Local host family, Other
+255
+Arusha,Tanzania
+2.5
+Hotel/Hostel, Local host family, Other
+256
+Zanzibar,Tanzania
+2.5
+Hotel/Hostel, Local host family, Other
+257
+Gulu,Uganda
+2.8
+Homestay
+258
+Kampala,Uganda
+2.5
+Hotel/Hostel, Local host family, Other
+259
+Chichicastenango,Guatemala
+2.0
+Homestay, Hotel/Hostel
+260
+Bangalore,India
+2.7
+Hotel/Hostel
+261
+Arusha,Tanzania
+2.0
+Guest House
+262
+Asan,SouthKorea
+3.0
+Dormitory
+263
+Athens,Greece
+3.0
+Dormitory
+264
+QuebecCity,Canada
+2.5
+Dormitory
+265
+Cuenca,Ecuador
+2.0
+Homestay, Hotel/Hostel
+266
+Arusha,Tanzania
+
+
+267
+Taipei,Taiwan
+2.0
+Dormitory
+268
+Athens,Greece
+2.0
+Hotel
+269
+Bologna,Italy
+2.0
+Hotel
+270
+SouthCaicos,TurksandCaicosIslands
+2.8
+Dormitory
+271
+SouthCaicos,TurksandCaicosIslands
+2.8
+Dormitory
+272
+MoyoHillCamp,Tanzania
+2.8
+Cabin
+273
+Atenas,CostaRica
+2.8
+Cabin
+274
+Jakar,Bhutan
+2.6
+Dormitory
+275
+Atenas,CostaRica
+2.8
+Cabin
+276
+MoyoHillCamp,Tanzania
+2.8
+Cabin
+277
+SouthCaicos,TurksandCaicosIslands
+2.8
+Dormitory
+278
+GreatBarrierReef,Australia
+2.8
+Cabin
+279
+Atenas,CostaRica
+2.8
+Dormitory
+280
+BocasdelToro,Panama
+2.8
+Dormitory
+281
+Yungaburra,Australia
+2.8
+Cabin
+282
+Yungaburra,Australia
+2.8
+Cabin
+283
+MoyoHillCamp,Tanzania
+2.8
+Cabin
+284
+Sendai,Japan
+3.0
+Dormitory, Independent Housing
+285
+Sendai,Japan
+3.0
+Dormitory, Independent Housing
+286
+London,UnitedKingdom
+3.0
+Dormitory
+287
+Alesund,Norway
+3.3
+Dormitory
+288
+Dijon,France
+2.5
+Dormitory
+289
+Chambéry,France
+3.0
+Dormitory
+290
+Bedford,UnitedKingdom
+3.5
+Dormitory
+291
+Bonn,Germany
+3.0
+Dormitory
+292
+Mannheim,Germany
+3.0
+Apartment, Dormitory
+293
+Quito,Ecuador
+2.5
+Homestay
+294
+Nairobi,Kenya
+2.5
+Homestay
+295
+Dakar,Senegal
+2.5
+Homestay
+296
+ChiangMai,Thailand
+2.5
+Local host family
+297
+Montpellier,France
+2.5
+Dorm/Residence Hall, Homestay
+298
+Tsukuba,Japan
+3.0
+Dormitory
+299
+Uppsala,Sweden
+3.0
+Dormitory
+300
+Banos,Ecuador
+
+
+301
+Chirundu,Zambia
+2.0
+Hotel, Hotel/Hostel
+End of method

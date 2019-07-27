@@ -1,0 +1,319 @@
+<!-- Created by Yi Implemented by Yi-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <title>My Google Map</title>
+  <style>
+    #map{
+      height:800px;
+      width:100%;
+    }
+  </style>
+</head>
+<body>
+  <h4 style="text-align:center">Overview: Which City Do You Want to Go? </h4>
+  <div id="map"></div>
+  <script>
+    function initMap(){
+      var options = {
+        zoom:4,
+        center:{lat:35,lng:23}
+      }
+
+    // New map and geocoder
+    var map = new google.maps.Map(document.getElementById('map'), options);
+    var geocoder = new google.maps.Geocoder;
+
+    // Array of markers. HardCode by using geocode.json and main program.
+var arr = [[{lat: 51.5176, lng: -0.11362},"<h2>AIFS Study Abroad in London: Semester Internship</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>AIFS Study Abroad in London: Semester or Academic Year</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>AIFS Study Abroad in London: Summer</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>AIFS Study Abroad in London: Summer Globe Education Theater Program</h2>"],
+[{lat: 50.0766, lng: 14.44435},"<h2>AIFS Study Abroad in London: Summer Internship</h2>"],
+[{lat: 50.0766, lng: 14.44435},"<h2>AIFS Study Abroad in Prague, Charles University: Semester or Academic Year</h2>"],
+[{lat: 41.8793, lng: 12.48759},"<h2>AIFS Study Abroad in Prague: Summer</h2>"],
+[{lat: 47.7987, lng: 13.04106},"<h2>AIFS Study Abroad in Rome: Semester Internship</h2>"],
+[{lat: 47.7987, lng: 13.04106},"<h2>AIFS Study Abroad in Salzburg: Semester or Academic Year</h2>"],
+[{lat: -33.9469, lng: 18.87699},"<h2>AIFS Study Abroad in Salzburg: Summer</h2>"],
+[{lat: -33.9469, lng: 18.87699},"<h2>AIFS Study Abroad in Stellenbosch: Semester or Academic Year</h2>"],
+[{lat: -33.9469, lng: 18.87699},"<h2>AIFS Study Abroad in Stellenbosch: Service Learning Semester or Year</h2>"],
+[{lat: -33.9469, lng: 18.87699},"<h2>AIFS Study Abroad in Stellenbosch: Summer</h2>"],
+[{lat: 55.7569, lng: 37.60946},"<h2>AIFS Study Abroad in Stellenbosch: Summer Service Learning</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>American Councils: RLASP – Advanced Russian Language & Area Studies Program</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>AMIDEAST Area & Arabic Language Studies in Jordan (Semester/Academic Year)</h2>"],
+[{lat: -17.3989, lng: -66.15649},"<h2>AMIDEAST Intensive Arabic in Amman, Jordan (Summer)</h2>"],
+[{lat: 50.3209, lng: -97.00576},"<h2>Amizade Global Service-Learning For STEP Students, Bolivia</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia in Dublin Summer</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>Arcadia in Greece</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia in London</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia in London Summer</h2>"],
+[{lat: 41.8793, lng: 12.48759},"<h2>Arcadia in Rome</h2>"],
+[{lat: 43.7793, lng: 11.24656},"<h2>Arcadia University - Accademia Italiana Florence</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - Arcadia in Sydney Summer</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>Arcadia University - Athens Internship Program</h2>"],
+[{lat: -35.2688, lng: 149.01388},"<h2>Arcadia University - Australian National University</h2>"],
+[{lat: 44.8206, lng: -68.80276},"<h2>Arcadia University - Bangor University</h2>"],
+[{lat: 53.1180, lng: -9.15028},"<h2>Arcadia University - Burren College of Art</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - City University London</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia University - Dublin Internship Program Summer</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia University - Dublin Parliamentary Internship</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - Edinburgh Napier University</h2>"],
+[{lat: -43.5393, lng: 172.64454},"<h2>Arcadia University - Environmental Studies: Ethics, Culture, and Sustainability</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Food & Sustainability Studies, Perugia</h2>"],
+[{lat: 55.8502, lng: -4.24314},"<h2>Arcadia University - Glasgow School of Art</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - Goldsmiths, University of London</h2>"],
+[{lat: -27.4696, lng: 153.02556},"<h2>Arcadia University - Griffith University</h2>"],
+[{lat: 43.7793, lng: 11.24656},"<h2>Arcadia University - Intensive Design in Florence</h2>"],
+[{lat: 43.7793, lng: 11.24656},"<h2>Arcadia University - Italian Language and Culture in Florence</h2>"],
+[{lat: -19.2596, lng: 146.81523},"<h2>Arcadia University - James Cook University</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - King's College London</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - Kings College London Health and Society</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - London Internship Program</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - London Internship Program Summer</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - London School of Economics</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - Macquarie University</h2>"],
+[{lat: 53.3844, lng: -6.59324},"<h2>Arcadia University - Maynooth University</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - Museum Studies Internship Program</h2>"],
+[{lat: 53.2776, lng: -9.05768},"<h2>Arcadia University - National University of Ireland Galway</h2>"],
+[{lat: 52.2072, lng: 0.12708},"<h2>Arcadia University - Pembroke-King's at University of Cambridge</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - Queen Mary University of London</h2>"],
+[{lat: 54.5845, lng: -5.93432},"<h2>Arcadia University - Queens University Belfast</h2>"],
+[{lat: -27.4696, lng: 153.02556},"<h2>Arcadia University - Queensland University of Technology</h2>"],
+[{lat: 41.8793, lng: 12.48759},"<h2>Arcadia University - Rome Internship Program</h2>"],
+[{lat: 55.8502, lng: -4.24314},"<h2>Arcadia University - Royal Conservatoire of Scotland</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - Scottish History</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - Scottish Parliamentary Program</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - Scottish Universities International Summer School</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - SOAS, University of London</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - St Mary's University</h2>"],
+[{lat: 57.1521, lng: -2.13490},"<h2>Arcadia University - STEM Summer Research - Aberdeen</h2>"],
+[{lat: -27.4696, lng: 153.02556},"<h2>Arcadia University - STEM Summer Research - Brisbane</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia University - STEM Summer Research - Dublin</h2>"],
+[{lat: 55.8502, lng: -4.24314},"<h2>Arcadia University - STEM Summer Research - Glasgow</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - STEM Summer Research - Kings College London</h2>"],
+[{lat: 52.6527, lng: -8.63273},"<h2>Arcadia University - STEM Summer Research - Limerick</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - STEM Summer Research - London</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - Sydney Internship Program</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - Sydney Internship Program Summer</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Trasimeno Archaeology Field School</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia University - Trinity College Dublin</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Umbra Institute</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Umbra Institute Intensive Italian</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Umbra Institute Intensive Italian Summer</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Umbra Institute Summer</h2>"],
+[{lat: 43.1130, lng: 12.39503},"<h2>Arcadia University - Universita Degli Studi di Perugia</h2>"],
+[{lat: 51.8933, lng: -8.46730},"<h2>Arcadia University - University College Cork</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Arcadia University - University College Dublin</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - University College London</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - University College London Summer STEM</h2>"],
+[{lat: 57.1521, lng: -2.13490},"<h2>Arcadia University - University of Aberdeen</h2>"],
+[{lat: -43.5393, lng: 172.64454},"<h2>Arcadia University - University of Canterbury</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Arcadia University - University of Edinburgh</h2>"],
+[{lat: 55.8502, lng: -4.24314},"<h2>Arcadia University - University of Glasgow</h2>"],
+[{lat: 52.6527, lng: -8.63273},"<h2>Arcadia University - University of Limerick</h2>"],
+[{lat: 52.6527, lng: -8.63273},"<h2>Arcadia University - University of Limerick Summer</h2>"],
+[{lat: 42.9861, lng: -71.45384},"<h2>Arcadia University - University of Manchester</h2>"],
+[{lat: 28.1253, lng: -80.65967},"<h2>Arcadia University - University of Melbourne</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - University of New South Wales</h2>"],
+[{lat: -45.8688, lng: 170.50087},"<h2>Arcadia University - University of Otago</h2>"],
+[{lat: 51.7442, lng: -1.23641},"<h2>Arcadia University - University of Oxford</h2>"],
+[{lat: -27.4696, lng: 153.02556},"<h2>Arcadia University - University of Queensland</h2>"],
+[{lat: 40.6744, lng: -74.49475},"<h2>Arcadia University - University of Stirling</h2>"],
+[{lat: 40.6744, lng: -74.49475},"<h2>Arcadia University - University of Stirling Summer</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - University of Sydney</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - University of Technology, Sydney</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University - University of Westminster</h2>"],
+[{lat: 51.0666, lng: -1.31685},"<h2>Arcadia University - University of Winchester</h2>"],
+[{lat: 46.1343, lng: -60.18220},"<h2>Arcadia University - University of Wollongong</h2>"],
+[{lat: 39.9414, lng: -84.02002},"<h2>Arcadia University - University of York</h2>"],
+[{lat: -41.2780, lng: 174.78034},"<h2>Arcadia University - Victoria University of Wellington</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Arcadia University- LSE Summer School</h2>"],
+[{lat: 37.4576, lng: -122.19998},"<h2>Australia: Human Impacts on the Natural Environment</h2>"],
+[{lat: 44.8421, lng: -0.58100},"<h2>Aviation Summer Program</h2>"],
+[{lat: 44.7812, lng: 20.46718},"<h2>Balkan Language Initiative</h2>"],
+[{lat: 52.5026, lng: 13.40570},"<h2>Berlin Then and Now: People, Places, Experiences</h2>"],
+[{lat: 43.5309, lng: 5.42774},"<h2>Between France and Morocco: Diversity in the Francophone World</h2>"],
+[{lat: 51.5049, lng: -3.18957},"<h2>Castles, Celts and Curries: Multicultural Histories and Legacies of the United Kingdom</h2>"],
+[{lat: 50.0766, lng: 14.44435},"<h2>CET Film Production</h2>"],
+[{lat: -2.1750, lng: -79.91610},"<h2>Child Family Health International (CFHI) Tanzania</h2>"],
+[{lat: -3.3737, lng: 36.69880},"<h2>CIEE Art and Sciences Program in Hyderabad, India</h2>"],
+[{lat: -41.8791, lng: -73.81660},"<h2>CIEE Middle East Studies in Amman, Jordan</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>CIEE Summer Arabic Language Program in Amman, Jordan</h2>"],
+[{lat: 25.3895, lng: 68.35287},"<h2>CIEE Summer Russian Language Program in St. Petersburg, Russia</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>CINECU: Hispanic Studies in Multiple Disciplines</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>Costa Rica: Sustainable Service Learning</h2>"],
+[{lat: 37.3874, lng: -5.96097},"<h2>Cross Cultural Solutions--Volunteer in Ghana for STEP Students</h2>"],
+[{lat: 9.7140, lng: -82.82512},"<h2>Cross Cultural Solutions--Volunteer in Thailand for STEP Students</h2>"],
+[{lat: 10.1934, lng: -85.56035},"<h2>CYA (College Year in Athens)</h2>"],
+[{lat: 33.4450, lng: -5.22550},"<h2>Dance Denmark</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>DIS - Study Abroad in Copenhagen, Denmark</h2>"],
+[{lat: 49.2024, lng: 16.60763},"<h2>DIS - Study Abroad in Stockholm, Sweden</h2>"],
+[{lat: 57.0300, lng: 9.92661},"<h2>DIS - Summer in Scandinavia</h2>"],
+[{lat: 39.9038, lng: 116.38570},"<h2>DIS Copenhagen - Summer Courses</h2>"],
+[{lat: 55.6879, lng: 12.56158},"<h2>DIS Stockholm - Summer Courses</h2>"],
+[{lat: 59.3310, lng: 18.04775},"<h2>Dresden Summer Language Program</h2>"],
+[{lat: 55.6879, lng: 12.56158},"<h2>Engineering the Castles and Cathedrals of England and Wales</h2>"],
+[{lat: 55.6879, lng: 12.56158},"<h2>England/Scotland: Agricultural and Environmental Communication</h2>"],
+[{lat: 59.3310, lng: 18.04775},"<h2>England: Evolution in Darwin's World and Ours</h2>"],
+[{lat: 52.5026, lng: 13.40570},"<h2>European Architecture Studies</h2>"],
+[{lat: 53.1286, lng: -4.24931},"<h2>Exploring Jamaican Arts and Culture</h2>"],
+[{lat: 43.9028, lng: -69.82982},"<h2>FCOB Freshman Global Lab</h2>"],
+[{lat: 52.2072, lng: 0.12708},"<h2>FCOB Global Business Expedition: Panama</h2>"],
+[{lat: 47.5393, lng: 7.58830},"<h2>FCOB Sustainable Business Global Lab</h2>"],
+[{lat: 52.5026, lng: 13.40570},"<h2>FCOB: Introduction to Business in Asia Pacific Global Lab</h2>"],
+[{lat: 52.3610, lng: 4.89416},"<h2>FIE: Conflict and the Struggle for Peace: Explorations in Ireland and the Middle East Summer Program</h2>"],
+[{lat: 50.7739, lng: 6.09931},"<h2>Fisher College of Business Undergraduate Exchange - Audencia Business School</h2>"],
+[{lat: 33.8370, lng: -79.05337},"<h2>Fisher College of Business Undergraduate Exchange - Curtin University</h2>"],
+[{lat: 52.5026, lng: 13.40570},"<h2>Fisher College of Business Undergraduate Exchange - Ecole de Management Strasbourg</h2>"],
+[{lat: 1.1975, lng: -76.97281},"<h2>Fisher College of Business Undergraduate Exchange - Erasmus University, Rotterdam School of Management (RSM)</h2>"],
+[{lat: 56.5544, lng: 14.13456},"<h2>Fisher College of Business Undergraduate Exchange - Hong Kong University of Science and Technology (HKUST)</h2>"],
+[{lat: 14.6578, lng: 120.52903},"<h2>Fisher College of Business Undergraduate Exchange - Peking University, Guanghua School of Management</h2>"],
+[{lat: 31.9663, lng: 35.90650},"<h2>Fisher College of Business Undergraduate Exchange - Rikkyo University, College of Business</h2>"],
+[{lat: 47.2276, lng: -1.55384},"<h2>Fisher College of Business Undergraduate Exchange - Thammasat University</h2>"],
+[{lat: 55.6879, lng: 12.56158},"<h2>Fisher College of Business Undergraduate Exchange - Universidad de Chile</h2>"],
+[{lat: 48.5761, lng: 7.75574},"<h2>Fisher College of Business Undergraduate Exchange - Universita Commerciale Luigi Bocconi</h2>"],
+[{lat: 51.9186, lng: 4.50017},"<h2>Fisher College of Business Undergraduate Exchange - University of Dublin, Trinity College</h2>"],
+[{lat: 22.3719, lng: 114.19433},"<h2>Fisher College of Business Undergraduate Exchange - Vienna University of Economics and Business,  Wirtschaftsuniversität Wien (WU)</h2>"],
+[{lat: 39.9038, lng: 116.38570},"<h2>Fisher College of Business Undergraduate Exchange - WHU, Otto Beisheim School of Management</h2>"],
+[{lat: 35.6805, lng: 139.68872},"<h2>Genocide and Its Aftermath in Rwanda</h2>"],
+[{lat: 13.7407, lng: 100.50723},"<h2>Global May Great Britain</h2>"],
+[{lat: -3.8049, lng: -79.28142},"<h2>Global May Hungary</h2>"],
+[{lat: 40.4295, lng: -3.67932},"<h2>Global May Spain</h2>"],
+[{lat: 45.4765, lng: 9.17408},"<h2>Global May Uganda</h2>"],
+[{lat: 53.3219, lng: -6.25326},"<h2>Goethe-Institut</h2>"],
+[{lat: 50.3986, lng: 7.62355},"<h2>GVI--Volunteer in Costa Rica for STEP Students</h2>"],
+[{lat: -2.6086, lng: 29.75622},"<h2>GVI--Volunteer in Fiji for STEP Students</h2>"],
+[{lat: -17.3989, lng: -66.15649},"<h2>Haifa University</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Higher Education in Brazil</h2>"],
+[{lat: 36.5430, lng: -6.28189},"<h2>IAU: Aix-en-Provence, France</h2>"],
+[{lat: 0.0765, lng: 32.48344},"<h2>Iceland: Environment and Natural Resources</h2>"],
+[{lat: 51.0518, lng: 13.76558},"<h2>IES Abroad Nantes - French Language Immersion & Area Studies</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>IES Abroad Paris Summer – Language Immersion</h2>"],
+[{lat: 49.0398, lng: 22.23530},"<h2>IFSA- 21st Century City</h2>"],
+[{lat: 65.3807, lng: 26.90730},"<h2>Impact of HIV: Tanzania</h2>"],
+[{lat: 32.7770, lng: 35.00707},"<h2>Indonesia: Tourism, Culture and Local Communities</h2>"],
+[{lat: 31.7750, lng: 35.18883},"<h2>ISA Barcelona, Spain: Spanish Language & Culture - Summer</h2>"],
+[{lat: -12.6017, lng: -38.94086},"<h2>ISA Barcelona, Spain: Spanish Language, Liberal Arts & Business- Semester</h2>"],
+[{lat: 43.0662, lng: 141.35069},"<h2>ISA Buenos Aires, Argentina: Latin American Studies- Semester</h2>"],
+[{lat: 43.5309, lng: 5.42774},"<h2>ISA Granada, Spain: Hispanic Studies- Semester</h2>"],
+[{lat: 64.5523, lng: -21.92414},"<h2>ISA Granada, Spain: Spanish Language, Culture & Electives - Semester</h2>"],
+[{lat: 47.2276, lng: -1.55384},"<h2>ISA Heredia, Costa Rica: Spanish Language & Latin American Literature- Summer</h2>"],
+[{lat: 48.8571, lng: 2.34293},"<h2>ISA Lima, Peru: Business, Latin American Studies and Spanish Language - Summer</h2>"],
+[{lat: 31.2191, lng: 121.45006},"<h2>ISA Lima, Peru: Health Science, Field Work & Medical Spanish - Summer</h2>"],
+[{lat: 31.2191, lng: 121.45006},"<h2>ISA Lima, Peru: Liberal Arts with Locals- Academic Year/Semester</h2>"],
+[{lat: 8.2219, lng: 11.12512},"<h2>ISA Paris, France: French Language & Liberal Arts at the  Institut Catholique de Paris - Semester/Academic Year</h2>"],
+[{lat: 8.2219, lng: 11.12512},"<h2>ISA Salamanca, Spain: Spanish Language & Culture - Summer</h2>"],
+[{lat: 41.4036, lng: 2.15369},"<h2>ISA Seoul, South Korea: Business Courses in English with Locals & Korean Language - Academic Year/Semester</h2>"],
+[{lat: 41.4036, lng: 2.15369},"<h2>ISA Seoul, South Korea: Korean Language & Electives in English at Korea University - Summer</h2>"],
+[{lat: -27.5789, lng: -48.51212},"<h2>ISA Valencia, Spain: Hispanic Studies - Summer</h2>"],
+[{lat: 43.6745, lng: -94.33064},"<h2>ISA Valparaiso/ Vina del Mar, Chile: Latin American Studies & Courses with Locals- Semester</h2>"],
+[{lat: 43.6745, lng: -94.33064},"<h2>ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Semester</h2>"],
+[{lat: 10.0023, lng: -84.11366},"<h2>ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Summer</h2>"],
+[{lat: -12.0490, lng: -77.03360},"<h2>Italian Language Program in Lecce, Italy</h2>"],
+[{lat: -12.0490, lng: -77.03360},"<h2>Italy: International Food Policy - The Italian Approach</h2>"],
+[{lat: -12.0490, lng: -77.03360},"<h2>Korea University</h2>"],
+[{lat: 48.8571, lng: 2.34293},"<h2>Linguistics Research in Aix-en-Provence</h2>"],
+[{lat: 48.8571, lng: 2.34293},"<h2>Literary Locations</h2>"],
+[{lat: 40.9638, lng: -5.67140},"<h2>London Culture and City</h2>"],
+[{lat: 37.5744, lng: 126.99272},"<h2>Moritz College of Law - East China University of Political Science and Law</h2>"],
+[{lat: 37.5744, lng: 126.99272},"<h2>Moritz College of Law - Peking University</h2>"],
+[{lat: 37.5744, lng: 126.99272},"<h2>Moritz College of Law - Southwest University of Political Science and Law</h2>"],
+[{lat: 10.9615, lng: -74.80648},"<h2>Moritz College of Law - University of Passau</h2>"],
+[{lat: 39.4769, lng: -0.37475},"<h2>Music, Education, and Artistry: The Heart of Europe</h2>"],
+[{lat: 40.3679, lng: 18.17927},"<h2>Politecnico di Torino</h2>"],
+[{lat: 44.4992, lng: 11.34188},"<h2>Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)</h2>"],
+[{lat: 37.5744, lng: 126.99272},"<h2>Portuguese GE Language and Culture in Curitiba, Brazil</h2>"],
+[{lat: 43.5309, lng: 5.42774},"<h2>Psychology and Culture in Europe</h2>"],
+[{lat: 41.8793, lng: 12.48759},"<h2>Rikkyo University</h2>"],
+[{lat: 51.5176, lng: -0.11362},"<h2>Sant'Anna Institute Internship Program in Sorrento, Italy</h2>"],
+[{lat: -14.3492, lng: 34.34625},"<h2>Scotland's Ruminants</h2>"],
+[{lat: 31.2191, lng: 121.45006},"<h2>Semester at Sea - Fall Voyage 2019</h2>"],
+[{lat: 39.9038, lng: 116.38570},"<h2>Semester at Sea - Spring Voyage 2019</h2>"],
+[{lat: 29.5611, lng: 106.52734},"<h2>Semester at Sea - Spring Voyage 2020</h2>"],
+[{lat: 48.5765, lng: 13.43904},"<h2>Siena Italian Studies</h2>"],
+[{lat: -43.5393, lng: 172.64454},"<h2>SIT Study Abroad Rwanda: Post-Genocide Restoration and Peacebuilding</h2>"],
+[{lat: 59.6653, lng: 10.63696},"<h2>SIT Study Abroad Senegal: Global Security and Religious Pluralism</h2>"],
+[{lat: -0.2123, lng: -78.50889},"<h2>SIT Study Abroad South Africa: Community Health and Social Policy</h2>"],
+[{lat: 8.7930, lng: -82.44670},"<h2>SIT Study Abroad South Africa: Education and Social Change</h2>"],
+[{lat: 45.0636, lng: 7.68613},"<h2>SIT Study Abroad Tanzania: Wildlife Conservation and Political Ecology</h2>"],
+[{lat: -25.4691, lng: -49.27437},"<h2>SIT Study Abroad Uganda/Rwanda: Peace and Conflict in the Lake Victoria Basin</h2>"],
+[{lat: 50.7157, lng: 7.11147},"<h2>SIT Study Abroad Uganda: Development Studies</h2>"],
+[{lat: 35.6805, lng: 139.68872},"<h2>Social Issues and Human Rights</h2>"],
+[{lat: -38.3451, lng: 144.74261},"<h2>Social Work in India with a Focus on Health and Mental Health</h2>"],
+[{lat: 39.3563, lng: -85.94961},"<h2>Summer Course in Modern Greek Studies (THYESPA)</h2>"],
+[{lat: 5.5830, lng: -0.20528},"<h2>Summer French at Laval</h2>"],
+[{lat: 52.3610, lng: 4.89416},"<h2>Sustainability and Social Justice in Ecuador</h2>"],
+[{lat: 5.5830, lng: -0.20528},"<h2>Sustainable Resilient Communities - Maji Marwa</h2>"],
+[{lat: 5.5830, lng: -0.20528},"<h2>Taipei National University of the Arts</h2>"],
+[{lat: 43.3173, lng: 11.33054},"<h2>The Italian City</h2>"],
+[{lat: -18.9052, lng: 47.52671},"<h2>The School for Field Studies -  Marina Megafauna</h2>"],
+[{lat: 2.8045, lng: 32.30014},"<h2>The School for Field Studies - Carnivores of the African Plains</h2>"],
+[{lat: 14.7081, lng: -17.45079},"<h2>The School for Field Studies - Coffee and Chocolate: A Taste of Sustainability</h2>"],
+[{lat: -29.8696, lng: 30.98157},"<h2>The School for Field Studies - Fundamentals of Sustainability Research</h2>"],
+[{lat: -3.3737, lng: 36.69880},"<h2>The School for Field Studies - Rainforests of New Zealand and Australia</h2>"],
+[{lat: -6.1564, lng: 39.20671},"<h2>The School for Field Studies - Sustainable Development Studies</h2>"],
+[{lat: 2.8045, lng: 32.30014},"<h2>The School for Field Studies – Tropical Island Biodiversity Studies</h2>"],
+[{lat: 0.3239, lng: 32.58661},"<h2>The School for Field Studies - Tropical Rainforest Studies</h2>"],
+[{lat: 14.9451, lng: -91.11194},"<h2>The School for Field Studies - Watersheds of the Wet Tropics</h2>"],
+[{lat: 12.9671, lng: 77.61165},"<h2>The School for Field Studies - Wildlife Management Studies</h2>"],
+[{lat: -3.3737, lng: 36.69880},"<h2>Tohoku University</h2>"],
+[{lat: 36.8028, lng: 126.96266},"<h2>Tohoku University (Graduate)</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>Trinity Laban Conservatoire of Music and Dance</h2>"],
+[{lat: 40.1294, lng: -2.08205},"<h2>Université de Bourgogne Centre International d'Etudes Françaises (CIEF)</h2>"],
+[{lat: -3.3737, lng: 36.69880},"<h2>Universite de Savoie Mont Blanc</h2>"],
+[{lat: 25.0424, lng: 121.52925},"<h2>University of Bedfordshire</h2>"],
+[{lat: 37.9918, lng: 23.72585},"<h2>University of Bonn</h2>"],
+[{lat: 44.4992, lng: 11.34188},"<h2>University of Minnesota: MSID Ecuador</h2>"],
+[{lat: 9.9865, lng: -84.38003},"<h2>University of Minnesota: Study Abroad in Montpellier</h2>"],
+[{lat: 27.5632, lng: 90.75287},"<h2>University of Tsukuba</h2>"],
+[{lat: 9.9865, lng: -84.38003},"<h2>Uppsala University</h2>"]
+];
+
+
+    // Loop through markersArr(array of arrays)
+    for(var i = 0;i < arr.length;i++){
+      addMarker(arr[i]);
+    }
+
+
+    function codeAddress(markersArr) {
+        geocoder.geocode( {'address': markersArr[0]}, function(results, status) {
+            if (status == 'OK') {
+                markersArr[0] = results[0].geometry.location
+            }
+            addMarker(markersArr);
+            alert(markersArr)
+        }
+        )
+    } 
+    // Add marker 
+    function addMarker(markersArr){
+        var marker = new google.maps.Marker({
+          position: markersArr[0],
+          map:map,
+          icon:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+        });
+
+        // Add content window
+          var infoWindow = new google.maps.InfoWindow({
+            content:markersArr[1]
+          });
+
+          marker.addListener('click', function(){
+            infoWindow.open(map, marker);
+            infoWindow.addListener('click',function(){infoWindow.close();} )
+          });
+
+      }
+
+
+
+    }
+  </script>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDp1oNAQCL0ZMbDWMBar1bPzH6ewBCuOjY&callback=initMap">
+    </script>
+</body>
+</html>

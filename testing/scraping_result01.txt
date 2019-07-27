@@ -1,0 +1,306 @@
+Begining of gather
+
+End of method
+A exaustive list of program!
+1	Program: AIFS Study Abroad in London: Semester Internship	Location: London,UnitedKingdom
+2	Program: AIFS Study Abroad in London: Semester or Academic Year	Location: London,UnitedKingdom
+3	Program: AIFS Study Abroad in London: Summer	Location: London,UnitedKingdom
+4	Program: AIFS Study Abroad in London: Summer Globe Education Theater Program	Location: London,UnitedKingdom
+5	Program: AIFS Study Abroad in London: Summer Internship	Location: Prague,CzechRepublic
+6	Program: AIFS Study Abroad in Prague, Charles University: Semester or Academic Year	Location: Prague,CzechRepublic
+7	Program: AIFS Study Abroad in Prague: Summer	Location: Rome,Italy
+8	Program: AIFS Study Abroad in Rome: Semester Internship	Location: Salzburg,Austria
+9	Program: AIFS Study Abroad in Salzburg: Semester or Academic Year	Location: Salzburg,Austria
+10	Program: AIFS Study Abroad in Salzburg: Summer	Location: Stellenbosch,SouthAfrica
+11	Program: AIFS Study Abroad in Stellenbosch: Semester or Academic Year	Location: Stellenbosch,SouthAfrica
+12	Program: AIFS Study Abroad in Stellenbosch: Service Learning Semester or Year	Location: Stellenbosch,SouthAfrica
+13	Program: AIFS Study Abroad in Stellenbosch: Summer	Location: Stellenbosch,SouthAfrica
+14	Program: AIFS Study Abroad in Stellenbosch: Summer Service Learning	Location: Moscow,Russia
+15	Program: American Councils: RLASP – Advanced Russian Language & Area Studies Program	Location: Amman,Jordan
+16	Program: AMIDEAST Area & Arabic Language Studies in Jordan (Semester/Academic Year)	Location: Amman,Jordan
+17	Program: AMIDEAST Intensive Arabic in Amman, Jordan (Summer)	Location: Cochabamba,Bolivia
+18	Program: Amizade Global Service-Learning For STEP Students, Bolivia	Location: Petersfield,Jamaica
+19	Program: Amizade Global Service-Learning for STEP Students, Jamaica	Location: no city
+20	Program: Arcadia in Dublin Summer	Location: Dublin,Ireland
+21	Program: Arcadia in Greece	Location: Athens,Greece
+22	Program: Arcadia in London	Location: London,UnitedKingdom
+23	Program: Arcadia in London Summer	Location: London,UnitedKingdom
+24	Program: Arcadia in Rome	Location: Rome,Italy
+25	Program: Arcadia University - Accademia Italiana Florence	Location: Florence,Italy
+26	Program: Arcadia University - Arcadia in Sydney Summer	Location: Sydney,Australia
+27	Program: Arcadia University - Athens Internship Program	Location: Athens,Greece
+28	Program: Arcadia University - Australian National University	Location: Canberra,Australia
+29	Program: Arcadia University - Bangor University	Location: Bangor,UnitedKingdom
+30	Program: Arcadia University - Burren College of Art	Location: Ballyvaughan,Ireland
+31	Program: Arcadia University - City University London	Location: London,UnitedKingdom
+32	Program: Arcadia University - Dublin Internship Program Summer	Location: Dublin,Ireland
+33	Program: Arcadia University - Dublin Parliamentary Internship	Location: Dublin,Ireland
+34	Program: Arcadia University - Edinburgh Napier University	Location: Edinburgh,UnitedKingdom
+35	Program: Arcadia University - Environmental Studies: Ethics, Culture, and Sustainability	Location: Christchurch,NewZealand
+36	Program: Arcadia University - Food & Sustainability Studies, Perugia	Location: Perugia,Italy
+37	Program: Arcadia University - Glasgow School of Art	Location: Glasgow,UnitedKingdom
+38	Program: Arcadia University - Goldsmiths, University of London	Location: London,UnitedKingdom
+39	Program: Arcadia University - Griffith University	Location: Brisbane,Australia
+40	Program: Arcadia University - Intensive Design in Florence	Location: Florence,Italy
+41	Program: Arcadia University - Italian Language and Culture in Florence	Location: Florence,Italy
+42	Program: Arcadia University - James Cook University	Location: Townsville,Australia
+43	Program: Arcadia University - King's College London	Location: London,UnitedKingdom
+44	Program: Arcadia University - Kings College London Health and Society	Location: London,UnitedKingdom
+45	Program: Arcadia University - London Internship Program	Location: London,UnitedKingdom
+46	Program: Arcadia University - London Internship Program Summer	Location: London,UnitedKingdom
+47	Program: Arcadia University - London School of Economics	Location: London,UnitedKingdom
+48	Program: Arcadia University - Macquarie University	Location: Sydney,Australia
+49	Program: Arcadia University - Maynooth University	Location: Maynooth,Ireland
+50	Program: Arcadia University - Museum Studies Internship Program	Location: Edinburgh,UnitedKingdom
+51	Program: Arcadia University - National University of Ireland Galway	Location: Galway,Ireland
+52	Program: Arcadia University - Pembroke-King's at University of Cambridge	Location: Cambridge,UnitedKingdom
+53	Program: Arcadia University - Queen Mary University of London	Location: London,UnitedKingdom
+54	Program: Arcadia University - Queens University Belfast	Location: Belfast,Ireland
+55	Program: Arcadia University - Queensland University of Technology	Location: Brisbane,Australia
+56	Program: Arcadia University - Rome Internship Program	Location: Rome,Italy
+57	Program: Arcadia University - Royal Conservatoire of Scotland	Location: Glasgow,UnitedKingdom
+58	Program: Arcadia University - Scottish History	Location: Edinburgh,UnitedKingdom
+59	Program: Arcadia University - Scottish Parliamentary Program	Location: Edinburgh,UnitedKingdom
+60	Program: Arcadia University - Scottish Universities International Summer School	Location: Edinburgh,UnitedKingdom
+61	Program: Arcadia University - SOAS, University of London	Location: London,UnitedKingdom
+62	Program: Arcadia University - St Mary's University	Location: London,UnitedKingdom
+63	Program: Arcadia University - STEM Summer Research - Aberdeen	Location: Aberdeen,UnitedKingdom
+64	Program: Arcadia University - STEM Summer Research - Brisbane	Location: Brisbane,Australia
+65	Program: Arcadia University - STEM Summer Research - Dublin	Location: Dublin,Ireland
+66	Program: Arcadia University - STEM Summer Research - Glasgow	Location: Glasgow,UnitedKingdom
+67	Program: Arcadia University - STEM Summer Research - Kings College London	Location: London,UnitedKingdom
+68	Program: Arcadia University - STEM Summer Research - Limerick	Location: Limerick,Ireland
+69	Program: Arcadia University - STEM Summer Research - London	Location: London,UnitedKingdom
+70	Program: Arcadia University - Sydney Internship Program	Location: Sydney,Australia
+71	Program: Arcadia University - Sydney Internship Program Summer	Location: Sydney,Australia
+72	Program: Arcadia University - Trasimeno Archaeology Field School	Location: Perugia,Italy
+73	Program: Arcadia University - Trinity College Dublin	Location: Dublin,Ireland
+74	Program: Arcadia University - Umbra Institute	Location: Perugia,Italy
+75	Program: Arcadia University - Umbra Institute Intensive Italian	Location: Perugia,Italy
+76	Program: Arcadia University - Umbra Institute Intensive Italian Summer	Location: Perugia,Italy
+77	Program: Arcadia University - Umbra Institute Summer	Location: Perugia,Italy
+78	Program: Arcadia University - Universita Degli Studi di Perugia	Location: Perugia,Italy
+79	Program: Arcadia University - University College Cork	Location: Cork,Ireland
+80	Program: Arcadia University - University College Dublin	Location: Dublin,Ireland
+81	Program: Arcadia University - University College London	Location: London,UnitedKingdom
+82	Program: Arcadia University - University College London Summer STEM	Location: London,UnitedKingdom
+83	Program: Arcadia University - University of Aberdeen	Location: Aberdeen,UnitedKingdom
+84	Program: Arcadia University - University of Auckland	Location: GreatBarrierReef,Australia
+85	Program: Arcadia University - University of Canterbury	Location: Christchurch,NewZealand
+86	Program: Arcadia University - University of Edinburgh	Location: Edinburgh,UnitedKingdom
+87	Program: Arcadia University - University of Glasgow	Location: Glasgow,UnitedKingdom
+88	Program: Arcadia University - University of Limerick	Location: Limerick,Ireland
+89	Program: Arcadia University - University of Limerick Summer	Location: Limerick,Ireland
+90	Program: Arcadia University - University of Manchester	Location: Manchester,UnitedKingdom
+91	Program: Arcadia University - University of Melbourne	Location: Melbourne,Australia
+92	Program: Arcadia University - University of New South Wales	Location: Sydney,Australia
+93	Program: Arcadia University - University of Otago	Location: Dunedin,NewZealand
+94	Program: Arcadia University - University of Oxford	Location: Oxford,UnitedKingdom
+95	Program: Arcadia University - University of Queensland	Location: Brisbane,Australia
+96	Program: Arcadia University - University of St Andrews	Location: St.Andrews,UnitedKingdom
+97	Program: Arcadia University - University of Stirling	Location: Stirling,UnitedKingdom
+98	Program: Arcadia University - University of Stirling Summer	Location: Stirling,UnitedKingdom
+99	Program: Arcadia University - University of Sydney	Location: Sydney,Australia
+100	Program: Arcadia University - University of Technology, Sydney	Location: Sydney,Australia
+101	Program: Arcadia University - University of Westminster	Location: London,UnitedKingdom
+102	Program: Arcadia University - University of Winchester	Location: Winchester,UnitedKingdom
+103	Program: Arcadia University - University of Wollongong	Location: Sydney,Australia
+104	Program: Arcadia University - University of York	Location: York,UnitedKingdom
+105	Program: Arcadia University - Victoria University of Wellington	Location: Wellington,NewZealand
+106	Program: Arcadia University- LSE Summer School	Location: London,UnitedKingdom
+107	Program: Australia: Human Impacts on the Natural Environment	Location: Atherton,Australia
+108	Program: Aviation Summer Program	Location: Bordeaux,France
+109	Program: Balkan Language Initiative	Location: Belgrade,Serbia
+110	Program: Ben Gurion University	Location: BeerSheva ,Israel
+111	Program: Berlin Then and Now: People, Places, Experiences	Location: Berlin,Germany
+112	Program: Between France and Morocco: Diversity in the Francophone World	Location: Aix-en-Provence,France
+113	Program: Brazil: Alpha Zeta Partners	Location: CampoGrande,Brazil
+114	Program: Castles, Celts and Curries: Multicultural Histories and Legacies of the United Kingdom	Location: Cardiff,UnitedKingdom
+115	Program: CET Film Production	Location: Prague,CzechRepublic
+116	Program: Child Family Health International (CFHI) Bolivia	Location: no city
+117	Program: Child Family Health International (CFHI) Ecuador	Location: LaPaz,Bolivia
+118	Program: Child Family Health International (CFHI) Tanzania	Location: Guayaquil,Ecuador
+119	Program: Chile: Agriculture and Agroecosystems	Location: no city
+120	Program: CIEE Advanced Arabic Language Program in Amman, Jordan	Location: no city
+121	Program: CIEE Art and Sciences Program in Hyderabad, India	Location: Arusha,Tanzania
+122	Program: CIEE Middle East Studies in Amman, Jordan	Location: Ancud,Chile
+123	Program: CIEE Summer Arabic Language Program in Amman, Jordan	Location: Amman,Jordan
+124	Program: CIEE Summer Russian Language Program in St. Petersburg, Russia	Location: Hyderabad,India
+125	Program: CINECU: Hispanic Studies in Multiple Disciplines	Location: Amman,Jordan
+126	Program: Costa Rica: Sustainable Service Learning	Location: Amman,Jordan
+127	Program: Cross Cultural Solutions--Volunteer in Costa Rica for STEP Students, Costa Rica	Location: St.Petersburg,Russia
+128	Program: Cross Cultural Solutions--Volunteer in Ghana for STEP Students	Location: Seville,Spain
+129	Program: Cross Cultural Solutions--Volunteer in Morocco for STEP Students	Location: no city
+130	Program: Cross Cultural Solutions--Volunteer in Thailand for STEP Students	Location: Cahuita,CostaRica
+131	Program: CYA (College Year in Athens)	Location: Guanacaste,CostaRica
+132	Program: Czech Republic: Sustainability and Agricultural Policy in the EU	Location: VoltaRegion,Ghana
+133	Program: Dance Denmark	Location: Azrou,Morocco
+134	Program: Design Principles and Biomedical Research at Nanjing University	Location: Nan,Thailand
+135	Program: DIS - Study Abroad in Copenhagen, Denmark	Location: Athens,Greece
+136	Program: DIS - Study Abroad in Stockholm, Sweden	Location: Brno,CzechRepublic
+137	Program: DIS - Summer in Scandinavia	Location: Aalborg,Denmark
+138	Program: DIS Copenhagen - Summer Courses	Location: Beijing,China
+139	Program: DIS Stockholm - Summer Courses	Location: Copenhagen,Denmark
+140	Program: Dresden Summer Language Program	Location: Stockholm,Sweden
+141	Program: Engineering the Castles and Cathedrals of England and Wales	Location: Copenhagen,Denmark
+142	Program: England/Scotland: Agricultural and Environmental Communication	Location: Copenhagen,Denmark
+143	Program: England: Evolution in Darwin's World and Ours	Location: Stockholm,Sweden
+144	Program: European Architecture Studies	Location: Berlin,Germany
+145	Program: European Cities and Sustainable Urban Planning Practices	Location: no city
+146	Program: European Dairy Studies	Location: no city
+147	Program: European Equestrian Studies	Location: no city
+148	Program: Exploring India's Culture, Engineering, and Food Systems	Location: no city
+149	Program: Exploring Jamaican Arts and Culture	Location: Caernarfon,UnitedKingdom
+150	Program: FCOB Freshman Global Lab	Location: Bath,UnitedKingdom
+151	Program: FCOB Global Business Expedition: Panama	Location: Cambridge,UnitedKingdom
+152	Program: FCOB Sustainable Business Global Lab	Location: Basel,Switzerland
+153	Program: FCOB: Introduction to Business in Asia Pacific Global Lab	Location: Berlin,Germany
+154	Program: FIE: Conflict and the Struggle for Peace: Explorations in Ireland and the Middle East Summer Program	Location: Amsterdam,Netherlands
+155	Program: Fisher College of Business Undergraduate Exchange - Audencia Business School	Location: Aachen,Germany
+156	Program: Fisher College of Business Undergraduate Exchange - Copenhagen Business School (CBS)Location: Agra,India
+157	Program: Fisher College of Business Undergraduate Exchange - Curtin University	Location: Kingston,Jamaica
+158	Program: Fisher College of Business Undergraduate Exchange - Ecole de Management Strasbourg	Location: Berlin,Germany
+159	Program: Fisher College of Business Undergraduate Exchange - Erasmus University, Rotterdam School of Management (RSM)	Location: Colon,Panama
+160	Program: Fisher College of Business Undergraduate Exchange - Hong Kong University of Science and Technology (HKUST)	Location: Almhult,Sweden
+161	Program: Fisher College of Business Undergraduate Exchange - Peking University, Guanghua School of Management	Location: Central,HongKong
+162	Program: Fisher College of Business Undergraduate Exchange - Rikkyo University, College of Business	Location: Amman,Jordan
+163	Program: Fisher College of Business Undergraduate Exchange - Singapore Management University (SMU)	Location: no city
+164	Program: Fisher College of Business Undergraduate Exchange - Thammasat University	Location: Nantes,France
+165	Program: Fisher College of Business Undergraduate Exchange - Universidad de Chile	Location: Copenhagen,Denmark
+166	Program: Fisher College of Business Undergraduate Exchange - Universidad Pontificia ComillasLocation: Perth,Australia
+167	Program: Fisher College of Business Undergraduate Exchange - Universita Commerciale Luigi Bocconi	Location: Strasbourg,France
+168	Program: Fisher College of Business Undergraduate Exchange - University of Dublin, Trinity College	Location: Rotterdam,Netherlands
+169	Program: Fisher College of Business Undergraduate Exchange - Vienna University of Economics and Business,  Wirtschaftsuniversität Wien (WU)	Location: Kowloon,HongKong
+170	Program: Fisher College of Business Undergraduate Exchange - WHU, Otto Beisheim School of Management	Location: Beijing,China
+171	Program: Genocide and Its Aftermath in Rwanda	Location: Tokyo,Japan
+172	Program: Global May Bolivia	Location: BrasBasah,Singapore
+173	Program: Global May Great Britain	Location: Bangkok,Thailand
+174	Program: Global May Hungary	Location: Santiago,Chile
+175	Program: Global May Spain	Location: Madrid,Spain
+176	Program: Global May Uganda	Location: Milan,Italy
+177	Program: Goethe-Institut	Location: Dublin,Ireland
+178	Program: Greece - Introduction to Western Tradition and Contemporary Issues in Corfu, GreeceLocation: Vienna,Austria
+179	Program: GVI--Volunteer in Costa Rica for STEP Students	Location: Vallendar,Germany
+180	Program: GVI--Volunteer in Fiji for STEP Students	Location: Butare,Rwanda
+181	Program: GVI--Volunteer in India for STEP Students	Location: no city
+182	Program: GVI--Volunteer in Thailand for STEP Students	Location: no city
+183	Program: Haifa University	Location: Cochabamba,Bolivia
+184	Program: Hebrew University Summer	Location: no city
+185	Program: Higher Education in Brazil	Location: Edinburgh,UnitedKingdom
+186	Program: Hokkaido University	Location: Balotonfured,Hungary
+187	Program: IAU: Aix-en-Provence, France	Location: Cadiz,Spain
+188	Program: Iceland: Environment and Natural Resources	Location: Entebbe,Uganda
+189	Program: IES Abroad Nantes - French Language Immersion & Area Studies	Location: Dresden,Germany
+190	Program: IES Abroad Paris Summer – Language Immersion	Location: Athens,Greece
+191	Program: IFSA- 21st Century City	Location: Jalova,CostaRica
+192	Program: IFSA- Summer in Shanghai	Location: DawasamuDistrict,Fiji
+193	Program: Impact of HIV: Tanzania	Location: Kerala,India
+194	Program: Indonesia: First Education Experience Program (FEEP)	Location: ChiangMai,Thailand
+195	Program: Indonesia: Tourism, Culture and Local Communities	Location: Haifa,Israel
+196	Program: ISA Barcelona, Spain: Spanish Language & Culture - Summer	Location: Jerusalem,Israel
+197	Program: ISA Barcelona, Spain: Spanish Language, Liberal Arts & Business- Semester	Location: Cachoeira,Brazil
+198	Program: ISA Buenos Aires, Argentina: Latin American Studies and Courses with Locals- Semester	Location: no city
+199	Program: ISA Buenos Aires, Argentina: Latin American Studies- Semester	Location: Sapporo,Japan
+200	Program: ISA Florianopolis, Brazil: Culture, Portuguese Language & Business - Semester	Location: no city
+201	Program: ISA Granada, Spain: Hispanic Studies- Semester	Location: Aix-en-Provence,France
+202	Program: ISA Granada, Spain: Spanish Language, Culture & Electives - Semester	Location: Borgarnes,Iceland
+203	Program: ISA Heredia, Costa Rica: Spanish Language & Latin American Literature- Summer	Location: Nantes,France
+204	Program: ISA Lima, Peru: Business, Latin American Studies and Spanish Language - Summer	Location: Paris,France
+205	Program: ISA Lima, Peru: Health Science, Field Work & Medical Spanish - Summer	Location: Shanghai,China
+206	Program: ISA Lima, Peru: Liberal Arts with Locals- Academic Year/Semester	Location: Shanghai,China
+207	Program: ISA Paris, France: French Language & Culture at The Sorbonne - Cours de Civilisation Française de la Sorbonne - Semester/Academic Year	Location: DaresSalaam,Tanzania
+208	Program: ISA Paris, France: French Language & Liberal Arts at the  Institut Catholique de Paris - Semester/Academic Year	Location: Bali,Indonesia
+209	Program: ISA Salamanca, Spain: Spanish Language & Culture - Summer	Location: Bali,Indonesia
+210	Program: ISA San Jose, Costa Rica: Spanish Language, Liberal Arts & Environmental Studies - Semester	Location: no city
+211	Program: ISA Seoul, South Korea: Business Courses in English with Locals & Korean Language - Academic Year/Semester	Location: Barcelona,Spain
+212	Program: ISA Seoul, South Korea: Korean Language & Electives in English at Korea University - Summer	Location: Barcelona,Spain
+213	Program: ISA Seoul, South Korea: STEM, Social Sciences & Liberal Arts - Semester	Location: BuenosAires,Argentina
+214	Program: ISA Spanish GE Language & Culture Program in Barranquilla, Colombia	Location: BuenosAires,Argentina
+215	Program: ISA Valencia, Spain: Hispanic Studies - Summer	Location: Florianopolis,Brazil
+216	Program: ISA Valparaiso/ Vina del Mar, Chile: Latin American Studies & Courses with Locals- Semester	Location: Granada,Spain
+217	Program: ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Semester	Location: Granada,Spain
+218	Program: ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Summer	Location: Heredia,CostaRica
+219	Program: Italian Language Program in Lecce, Italy	Location: Lima,Peru
+220	Program: Italy: International Food Policy - The Italian Approach	Location: Lima,Peru
+221	Program: Korea University	Location: Lima,Peru
+222	Program: Linguistics Research in Aix-en-Provence	Location: Paris,France
+223	Program: Literary Locations	Location: Paris,France
+224	Program: London Culture and City	Location: Salamanca,Spain
+225	Program: Malawi Field Research Methods for Politics	Location: SanJose,CostaRica
+226	Program: Moritz College of Law - East China University of Political Science and Law	Location: Seoul,SouthKorea
+227	Program: Moritz College of Law - Peking University	Location: Seoul,SouthKorea
+228	Program: Moritz College of Law - Southwest University of Political Science and Law	Location: Seoul,SouthKorea
+229	Program: Moritz College of Law - University of Passau	Location: Barranquilla,Colombia
+230	Program: Music, Education, and Artistry: The Heart of Europe	Location: Valencia,Spain
+231	Program: New Zealand: Sustainable Tourism & Human Impacts on the Environment	Location: VinadelMar,Chile
+232	Program: Nursing Experience in Norway	Location: VinadelMar,Chile
+233	Program: Pachaysana Institute: Rehearsing Change, Ecuador	Location: VinadelMar,Chile
+234	Program: Panama: Through the Lens of AgriCulture, Sustainability and Diversity	Location: no city
+235	Program: Politecnico di Torino	Location: Lecce,Italy
+236	Program: Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)	Location: Bologna,Italy
+237	Program: Portuguese GE Language and Culture in Curitiba, Brazil	Location: Seoul,SouthKorea
+238	Program: Psychology and Culture in Europe	Location: Aix-en-Provence,France
+239	Program: Rikkyo University	Location: Rome,Italy
+240	Program: Sant'Anna Institute Internship Program in Sorrento, Italy	Location: London,UnitedKingdom
+241	Program: Scotland's Ruminants	Location: Dedza,Malawi
+242	Program: Semester at Sea - Fall Voyage 2018	Location: no city
+243	Program: Semester at Sea - Fall Voyage 2019	Location: Shanghai,China
+244	Program: Semester at Sea - Spring Voyage 2019	Location: Beijing,China
+245	Program: Semester at Sea - Spring Voyage 2020	Location: Chongqing,China
+246	Program: Siena Italian Studies	Location: Passau,Germany
+247	Program: SIT Study Abroad Madagascar: Biodiversity and Natural Resource Management	Location: no city
+248	Program: SIT Study Abroad Madagascar: Traditional Medicine And Health Care Systems	Location: CividaledelFriuli,Italy
+249	Program: SIT Study Abroad Rwanda: Post-Genocide Restoration and Peacebuilding	Location: Christchurch,NewZealand
+250	Program: SIT Study Abroad Senegal: Global Security and Religious Pluralism	Location: Drobak,Norway
+251	Program: SIT Study Abroad South Africa: Community Health and Social Policy	Location: Quito,Ecuador
+252	Program: SIT Study Abroad South Africa: Education and Social Change	Location: Boquete,Panama
+253	Program: SIT Study Abroad South Africa: Multiculturalism and Human Rights	Location: no city
+254	Program: SIT Study Abroad South Africa: Social and Political Transformation	Location: no city
+255	Program: SIT Study Abroad Tanzania: Wildlife Conservation and Political Ecology	Location: Turin,Italy
+256	Program: SIT Study Abroad Tanzania: Zanzibar Coastal Ecology and Natural Resource ManagementLocation: RiodeJaneiro,Brazil
+257	Program: SIT Study Abroad Uganda/Rwanda: Peace and Conflict in the Lake Victoria Basin	Location: Curitiba,Brazil
+258	Program: SIT Study Abroad Uganda: Development Studies	Location: Bonn,Germany
+259	Program: Social Issues and Human Rights	Location: Tokyo,Japan
+260	Program: Social Work in India with a Focus on Health and Mental Health	Location: Sorrento,Italy
+261	Program: Solar Engineering Service-Learning in Tanzania	Location: no city
+262	Program: Soonchunhyang University	Location: no city
+263	Program: Summer Course in Modern Greek Studies (THYESPA)	Location: Edinburgh,UnitedKingdom
+264	Program: Summer French at Laval	Location: Accra,Ghana
+265	Program: Sustainability and Social Justice in Ecuador	Location: Amsterdam,Netherlands
+266	Program: Sustainable Resilient Communities - Maji Marwa	Location: Accra,Ghana
+267	Program: Taipei National University of the Arts	Location: Accra,Ghana
+268	Program: The European Model of Sport	Location: no city
+269	Program: The Italian City	Location: Siena,Italy
+270	Program: The School for Field Studies -  Fundamentals of Marine Conservation	Location: FortDauphin(Tolagnaro),Madagascar
+271	Program: The School for Field Studies -  Marina Megafauna	Location: Antananarivo,Madagascar
+272	Program: The School for Field Studies - Carnivores of the African Plains	Location: Gulu,Uganda
+273	Program: The School for Field Studies - Coffee and Chocolate: A Taste of Sustainability	Location: Dakar,Senegal
+274	Program: The School for Field Studies - Forests in the Land of the Thunder Dragon	Location: CapeTown,SouthAfrica
+275	Program: The School for Field Studies - Fundamentals of Sustainability Research	Location: Durban,SouthAfrica
+276	Program: The School for Field Studies - Fundamentals of Wildlife Management	Location: CapeTown,SouthAfrica
+277	Program: The School for Field Studies – Marine Resource Studies	Location: CapeTown,SouthAfrica
+278	Program: The School for Field Studies - Rainforests of New Zealand and Australia	Location: Arusha,Tanzania
+279	Program: The School for Field Studies - Sustainable Development Studies	Location: Zanzibar,Tanzania
+280	Program: The School for Field Studies – Tropical Island Biodiversity Studies	Location: Gulu,Uganda
+281	Program: The School for Field Studies - Tropical Rainforest Studies	Location: Kampala,Uganda
+282	Program: The School for Field Studies - Watersheds of the Wet Tropics	Location: Chichicastenango,Guatemala
+283	Program: The School for Field Studies - Wildlife Management Studies	Location: Bangalore,India
+284	Program: Tohoku University	Location: Arusha,Tanzania
+285	Program: Tohoku University (Graduate)	Location: Asan,SouthKorea
+286	Program: Trinity Laban Conservatoire of Music and Dance	Location: Athens,Greece
+287	Program: Trondbuss Molecular Genetics	Location: QuebecCity,Canada
+288	Program: Université de Bourgogne Centre International d'Etudes Françaises (CIEF)	Location: Cuenca,Ecuador
+289	Program: Universite de Savoie Mont Blanc	Location: Arusha,Tanzania
+290	Program: University of Bedfordshire	Location: Taipei,Taiwan
+291	Program: University of Bonn	Location: Athens,Greece
+292	Program: University of Mannheim	Location: no city
+293	Program: University of Minnesota: MSID Ecuador	Location: Bologna,Italy
+294	Program: University of Minnesota: MSID Kenya	Location: SouthCaicos,TurksandCaicosIslands
+295	Program: University of Minnesota: MSID Senegal	Location: SouthCaicos,TurksandCaicosIslands
+296	Program: University of Minnesota: MSID Thailand	Location: MoyoHillCamp,Tanzania
+297	Program: University of Minnesota: Study Abroad in Montpellier	Location: Atenas,CostaRica
+298	Program: University of Tsukuba	Location: Jakar,Bhutan
+299	Program: Uppsala University	Location: Atenas,CostaRica
+300	Program: Why Do We Travel?	Location: MoyoHillCamp,Tanzania
+301	Program: Zambia Culture and Society	Location: SouthCaicos,TurksandCaicosIslands
+

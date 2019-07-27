@@ -1,0 +1,2043 @@
+#<Mechanize::Page
+ {url #<URI::HTTPS https://educationabroad.osu.edu/index.cfm>}
+ {meta_refresh}
+ {title "Programs > Program Search (results) > Education Abroad"}
+ {iframes}
+ {frames}
+ {links
+  #<Mechanize::Page::Link "Skip to content" "#tds_content_start">
+  #<Mechanize::Page::Link "" nil>
+  #<Mechanize::Page::Link "OSU-OIA" "https://oia.osu.edu/">
+  #<Mechanize::Page::Link
+   "EDUCATION_ABROAD"
+   "https://oia.osu.edu/education-abroad.html">
+  #<Mechanize::Page::Link "Site home" "/index.cfm?FuseAction=Abroad.Home">
+  #<Mechanize::Page::Link "Programs" "/index.cfm?FuseAction=Programs.Home">
+  #<Mechanize::Page::Link "Staff" "/index.cfm?FuseAction=StaffMain.Home">
+  #<Mechanize::Page::Link
+   "Deadlines"
+   "/index.cfm?FuseAction=Programs.ViewDeadlines">
+  #<Mechanize::Page::Link
+   "NON-OSU LOGIN"
+   "https://educationabroad.osu.edu/index.cfm?FuseAction=Security.ExistingUserLogin">
+  #<Mechanize::Page::Link "LOGIN" "https://educationabroad.osu.edu/secure/">
+  #<Mechanize::Page::Link "Getting Started" "javascript:void(0);">
+  #<Mechanize::Page::Link "Diversity and Identity" "javascript:void(0);">
+  #<Mechanize::Page::Link "Grants and Scholarships" "javascript:void(0);">
+  #<Mechanize::Page::Link "Before You Apply" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Search Programs"
+   "http://educationabroad.osu.edu/index.cfm?FuseAction=Programs.AdvancedSearch&">
+  #<Mechanize::Page::Link "Health and Safety" "javascript:void(0);">
+  #<Mechanize::Page::Link "Preparing to Depart" "javascript:void(0);">
+  #<Mechanize::Page::Link "Returning Home" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Register Other Travel"
+   "index.cfm?FuseAction=Abroad.ViewLink&Parent_ID=0&Link_ID=28AD0E55-5056-BA1F-713F06F2367ADFE5">
+  #<Mechanize::Page::Link
+   "Announcements"
+   "/index.cfm?FuseAction=Announcements.XML&Program_ID=0">
+  #<Mechanize::Page::Link "Previous announcement" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "View All"
+   "/index.cfm?FuseAction=Announcements.Home">
+  #<Mechanize::Page::Link "Next announcement" "javascript:void(0);">
+  #<Mechanize::Page::Link "Getting Started" "javascript:void(0);">
+  #<Mechanize::Page::Link "Diversity and Identity" "javascript:void(0);">
+  #<Mechanize::Page::Link "Grants and Scholarships" "javascript:void(0);">
+  #<Mechanize::Page::Link "Before You Apply" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Search Programs"
+   "http://educationabroad.osu.edu/index.cfm?FuseAction=Programs.AdvancedSearch&">
+  #<Mechanize::Page::Link "Health and Safety" "javascript:void(0);">
+  #<Mechanize::Page::Link "Preparing to Depart" "javascript:void(0);">
+  #<Mechanize::Page::Link "Returning Home" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Register Other Travel"
+   "index.cfm?FuseAction=Abroad.ViewLink&Parent_ID=0&Link_ID=28AD0E55-5056-BA1F-713F06F2367ADFE5">
+  #<Mechanize::Page::Link
+   "Announcements"
+   "/index.cfm?FuseAction=Announcements.Home">
+  #<Mechanize::Page::Link "" nil>
+  #<Mechanize::Page::Link "List All" "index.cfm?FuseAction=Programs.ListAll">
+  #<Mechanize::Page::Link
+   "Simple Search"
+   "index.cfm?FuseAction=Programs.SimpleSearch">
+  #<Mechanize::Page::Link
+   "Advanced Search"
+   "index.cfm?FuseAction=Programs.AdvancedSearch">
+  #<Mechanize::Page::Link
+   "Faculty-Led Programs"
+   "index.cfm?FuseAction=Programs.FeaturedPrograms">
+  #<Mechanize::Page::Link
+   "Map Search"
+   "index.cfm?FuseAction=Programs.MapSearch">
+  #<Mechanize::Page::Link "List All" "index.cfm?FuseAction=Programs.ListAll">
+  #<Mechanize::Page::Link
+   "Simple Search"
+   "index.cfm?FuseAction=Programs.SimpleSearch">
+  #<Mechanize::Page::Link
+   "Advanced Search"
+   "index.cfm?FuseAction=Programs.AdvancedSearch">
+  #<Mechanize::Page::Link
+   "Faculty-Led Programs"
+   "index.cfm?FuseAction=Programs.FeaturedPrograms">
+  #<Mechanize::Page::Link
+   "Map Search"
+   "index.cfm?FuseAction=Programs.MapSearch">
+  #<Mechanize::Page::Link "" nil>
+  #<Mechanize::Page::Link
+   "Program Name "
+   "index.cfm?FuseAction=Programs.SearchResults&Sort=Program_Name&Order=desc&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&">
+  #<Mechanize::Page::Link
+   "City"
+   "index.cfm?FuseAction=Programs.SearchResults&Sort=Program_City&Order=asc&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&">
+  #<Mechanize::Page::Link
+   "Country"
+   "index.cfm?FuseAction=Programs.SearchResults&Sort=Program_Country&Order=asc&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&">
+  #<Mechanize::Page::Link
+   "Region"
+   "index.cfm?FuseAction=Programs.SearchResults&Sort=Program_Region&Order=asc&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in London: Semester Internship"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10295">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in London: Semester or Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10296">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in London: Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10098">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in London: Summer Globe Education Theater Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10099">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in London: Summer Internship"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10100">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Prague, Charles University: Semester or Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10297">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Prague: Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10101">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Rome: Semester Internship"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10301">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Salzburg: Semester or Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10298">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Salzburg: Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10102">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Stellenbosch: Semester or Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10299">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Stellenbosch: Service Learning Semester or Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10300">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Stellenbosch: Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10103">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AIFS Study Abroad in Stellenbosch: Summer Service Learning"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10105">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "American Councils: RLASP – Advanced Russian Language & Area Studies Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10131">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AMIDEAST Area & Arabic Language Studies in Jordan (Semester/Academic Year)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10595">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "AMIDEAST Intensive Arabic in Amman, Jordan (Summer)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10594">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Amizade Global Service-Learning For STEP Students, Bolivia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10377">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Amizade Global Service-Learning for STEP Students, Jamaica"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10374">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Antarctica: Human Impact on a Fragile Ecosystem"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10344">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia in Dublin Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10114">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia in Greece"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10303">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia in London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10249">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia in London Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10115">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia in Rome"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10008">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Accademia Italiana Florence"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10010">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Arcadia in Sydney Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10409">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Athens Internship Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10325">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Australian National University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10023">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Bangor University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10250">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Bond University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10025">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Burren College of Art"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10279">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - City University London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10251">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Dublin Internship Program Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10116">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Dublin Parliamentary Internship"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10280">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Edinburgh Napier University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10252">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Environmental Studies: Ethics, Culture, and Sustainability"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10026">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Food & Sustainability Studies, Perugia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10011">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Glasgow School of Art"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10253">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Goldsmiths, University of London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10254">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Griffith University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10027">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Intensive Design in Florence"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10012">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Italian Language and Culture in Florence"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10013">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - James Cook University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10294">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - King's College London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10255">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Kings College London Health and Society"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10278">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - London Internship Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10257">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - London Internship Program Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10118">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - London School of Economics"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10258">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Macquarie University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10029">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Maynooth University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10281">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Museum Studies Internship Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10119">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - National University of Ireland Galway"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10282">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Pembroke-King's at University of Cambridge"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10120">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Queen Mary University of London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10260">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Queens University Belfast"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10283">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Queensland University of Technology"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10031">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Rome Internship Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10014">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Royal Conservatoire of Scotland"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10261">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Scottish History"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10126">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Scottish Parliamentary Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10127">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Scottish Universities International Summer School"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10128">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - SOAS, University of London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10263">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - St Mary's University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10264">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Aberdeen"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10589">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Brisbane"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10293">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Dublin"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10121">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Glasgow"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10129">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Kings College London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10606">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - Limerick"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10509">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - STEM Summer Research - London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10122">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Sydney Internship Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10033">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Sydney Internship Program Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10034">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Trasimeno Archaeology Field School"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10016">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Trinity College Dublin"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10284">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Umbra Institute"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10017">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Umbra Institute Intensive Italian"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10018">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Umbra Institute Intensive Italian Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10019">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Umbra Institute Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10020">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Universita Degli Studi di Perugia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10021">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University College Cork"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10285">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University College Dublin"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10286">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University College London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10266">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University College London Summer STEM"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10524">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Aberdeen"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10267">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Auckland"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10289">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Canterbury"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10290">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Edinburgh"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10269">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Glasgow"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10270">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Limerick"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10287">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Limerick Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10123">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Manchester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10271">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Melbourne"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10035">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of New South Wales"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10036">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Otago"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10291">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Oxford"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10272">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Queensland"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10037">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of St Andrews"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10273">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Stirling"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10274">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Stirling Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10130">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Sydney"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10038">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Technology, Sydney"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10039">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Westminster"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10276">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Winchester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10608">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of Wollongong"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10040">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - University of York"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10277">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University - Victoria University of Wellington"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10292">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Arcadia University- LSE Summer School"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10607">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Australia: Human Impacts on the Natural Environment"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10341">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Aviation Summer Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10087">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Balkan Language Initiative"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10393">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Ben Gurion University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10084">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Berlin Then and Now: People, Places, Experiences"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10238">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Between France and Morocco: Diversity in the Francophone World"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10244">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Brazil: Alpha Zeta Partners"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10228">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "British Invasion: The Impact of British Popular Music in the 1960s"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10189">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Canadian Parliament Internship"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10211">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Castles, Celts and Curries: Multicultural Histories and Legacies of the United Kingdom"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10581">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CET Film Production"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10308">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) Argentina"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10560">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) Bolivia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10561">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) Ecuador"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10562">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) Ghana"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10563">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) India"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10564">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Family Health International (CFHI) Tanzania"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10567">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Child Welfare and Children's Mental Health in Australia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10203">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Chile: Agriculture and Agroecosystems"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10226">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CIEE Advanced Arabic Language Program in Amman, Jordan"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10304">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CIEE Art and Sciences Program in Hyderabad, India"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10305">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CIEE Middle East Studies in Amman, Jordan"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10487">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CIEE Summer Arabic Language Program in Amman, Jordan"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10135">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CIEE Summer Russian Language Program in St. Petersburg, Russia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10136">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CINECU: Hispanic Studies in Multiple Disciplines"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10532">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "College of Nursing Midwifery Experience on the Isle of Jersey"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10449">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Costa Rica: Sustainable Service Learning"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10227">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Cross Cultural Solutions--Volunteer in Costa Rica for STEP Students, Costa Rica"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10378">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Cross Cultural Solutions--Volunteer in Ghana for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10379">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Cross Cultural Solutions--Volunteer in Morocco for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10381">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Cross Cultural Solutions--Volunteer in Thailand for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10384">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "CYA (College Year in Athens)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10593">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Czech Republic: Sustainability and Agricultural Policy in the EU"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10340">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Czech Theatre and Culture"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10402">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Dance Brazil"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10438">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Dance Denmark"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10358">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Design Matters in Brazil"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10462">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Design Principles and Biomedical Research at Nanjing University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10206">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "DIS - Study Abroad in Copenhagen, Denmark"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10307">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "DIS - Study Abroad in Stockholm, Sweden"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10506">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "DIS - Summer in Scandinavia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10522">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "DIS Copenhagen - Summer Courses"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10097">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "DIS Stockholm - Summer Courses"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10507">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Dresden Summer Language Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10237">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Engineering of Ancient Greece"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10351">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Engineering Service-Learning at Montana de Luz in Honduras"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10198">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Engineering Service-Learning in Ghana"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10196">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Engineering Service-Learning in Guyana"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10601">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Engineering the Castles and Cathedrals of England and Wales"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10350">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "England/Scotland: Agricultural and Environmental Communication"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10371">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "England: Evolution in Darwin's World and Ours"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10232">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "European Architecture Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10352">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "European Cities and Sustainable Urban Planning Practices"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10353">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "European Dairy Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10229">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "European Equestrian Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10364">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Ewha Womans University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10394">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Exploring India's Culture, Engineering, and Food Systems"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10481">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Exploring Jamaican Arts and Culture"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10362">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Exploring Japan Through Sport, Wellness & Culture"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10472">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Exploring the History and Future of Design in Milan, Italy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10240">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FAES First-year Student Experience"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10225">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB Freshman Global Lab"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10245">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB Global Business Expedition: A Global Communication Adventure in Prague and Vienna"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10579">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB Global Business Expedition: Panama"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10578">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB Industry Immersion: Italy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10404">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB Sustainable Business Global Lab"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10248">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FCOB: Introduction to Business in Asia Pacific Global Lab"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10580">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "FIE: Conflict and the Struggle for Peace: Explorations in Ireland and the Middle East Summer Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10134">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Alliance Manchester Business School (MBS)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10147">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Audencia Business School"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10142">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Copenhagen Business School (CBS)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10143">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Curtin University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10144">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Ecole de Management Strasbourg"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10156">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Erasmus University, Rotterdam School of Management (RSM)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10145">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Hong Kong University of Science and Technology (HKUST)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10146">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Peking University, Guanghua School of Management"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10148">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Rikkyo University, College of Business"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10149">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Singapore Management University (SMU)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10150">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Thammasat University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10151">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Universidad de Chile"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10153">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Universidad Pontificia Comillas"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10154">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Universita Commerciale Luigi Bocconi"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10155">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - University of Dublin, Trinity College"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10152">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - Vienna University of Economics and Business,  Wirtschaftsuniversität Wien (WU)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10157">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Fisher College of Business Undergraduate Exchange - WHU, Otto Beisheim School of Management"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10158">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Genocide and Its Aftermath in Rwanda"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10359">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Geography of the European Union"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10185">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global \"Hotspots\" of the Early Modern World: Argentina"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10180">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global Arts and Humanities Discovery Theme: Human Rights in Transit"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10575">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Bolivia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10209">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May China"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10003">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Great Britain"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10216">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Hungary"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10239">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Paris"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10451">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Spain"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10234">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Global May Uganda"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10217">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Goethe-Institut"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10090">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Greece - Introduction to Western Tradition and Contemporary Issues in Corfu, Greece"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10212">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Guatemala Engineering Service-Learning"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10538">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "GVI--Volunteer in Costa Rica for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10388">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "GVI--Volunteer in Fiji for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10389">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "GVI--Volunteer in India for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10390">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "GVI--Volunteer in Thailand for STEP Students"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10391">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Haifa University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10082">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Hebrew University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10083">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Hebrew University Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10400">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Higher Education in Brazil"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10243">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Higher Education in the Dominican Republic: Access, Equity, and Opportunity"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10587">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Hokkaido University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10159">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Human and Animal Interactions Education Abroad"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10224">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IAU: Aix-en-Provence, France"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10482">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Iceland: Environment and Natural Resources"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10346">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IE University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10160">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IES Abroad Nantes - French Language Immersion & Area Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10309">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IES Abroad Paris Summer – Language Immersion"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10043">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IFSA- 21st Century City"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10302">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "IFSA- Summer in Shanghai"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10133">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Impact of HIV: Tanzania"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10222">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Indonesia: First Education Experience Program (FEEP)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10455">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Indonesia: Tourism, Culture and Local Communities"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10456">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Intensive Chinese Language Program in Suzhou"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10236">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "International Christian University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10163">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "International Pharmacy Experience"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10333">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Barcelona, Spain: Spanish Language & Culture - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10057">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Barcelona, Spain: Spanish Language, Liberal Arts & Business- Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10058">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Buenos Aires, Argentina: Latin American Studies and Courses with Locals- Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10070">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Buenos Aires, Argentina: Latin American Studies- Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10071">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Florianopolis, Brazil: Culture, Portuguese Language & Business - Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10072">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Granada, Spain: Hispanic Studies- Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10059">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Granada, Spain: Spanish Language, Culture & Electives - Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10060">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Heredia, Costa Rica: Spanish Language & Latin American Literature- Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10077">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Lima, Peru: Business, Latin American Studies and Spanish Language - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10078">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Lima, Peru: Health Science, Field Work & Medical Spanish - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10512">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Lima, Peru: Liberal Arts with Locals- Academic Year/Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10079">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Paris, France: French Language & Culture at The Sorbonne - Cours de Civilisation Française de la Sorbonne - Semester/Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10065">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Paris, France: French Language & Liberal Arts at the  Institut Catholique de Paris - Semester/Academic Year"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10066">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Salamanca, Spain: Spanish Language & Culture - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10063">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA San Jose, Costa Rica: Spanish Language, Liberal Arts & Environmental Studies - Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10076">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Seoul, South Korea: Business Courses in English with Locals & Korean Language - Academic Year/Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10067">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Seoul, South Korea: Korean Language & Electives in English at Korea University - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10069">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Seoul, South Korea: STEM, Social Sciences & Liberal Arts - Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10068">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Spanish GE Language & Culture Program in Barranquilla, Colombia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10373">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Valencia, Spain: Hispanic Studies - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10141">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Valparaiso/ Vina del Mar, Chile: Latin American Studies & Courses with Locals- Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10073">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Semester"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10074">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "ISA Valparaiso/ Vina del Mar, Chile: Spanish Language & Latin American Studies - Summer"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10075">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Islamic Banking and Finance"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10616">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Italian Language Program in Lecce, Italy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10085">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Italy: International Food Policy - The Italian Approach"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10450">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Japanese Language and Culture in Kobe"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10241">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Japanese Popular Culture"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10453">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Knowlton School of Architecture Rome Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10349">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Korea Aerospace University International Summer Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10205">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Korea University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10396">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Leiden University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10164">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Linguistics Research in Aix-en-Provence"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10572">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Literary Locations"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10219">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Literature and Culture of London"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10220">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "London Culture and City"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10005">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "London Honors"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10188">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "London Theatre"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10403">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Malawi Field Research Methods for Politics"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10573">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Mapping our World  - Southern Scandinavia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10187">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Medieval Art in Italy: Rome & Florence"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10191">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moritz College of Law - East China University of Political Science and Law"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10444">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moritz College of Law - Peking University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10445">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moritz College of Law - Southwest University of Political Science and Law"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10407">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moritz College of Law - Universidad Pontificia Comillas"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10329">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moritz College of Law - University of Passau"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10405">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Moving (and Eating) Around Taiwan: A Bus, Subway, and High Speed Rail Systems Planning Workshop"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10200">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Music, Education, and Artistry: The Heart of Europe"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10443">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Nanzan University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10165">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "New Zealand: Sustainable Tourism & Human Impacts on the Environment"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10342">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Nursing Experience in Norway"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10576">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Oxford University Pre-Law Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10213">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Pachaysana Institute: Rehearsing Change, Ecuador"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10314">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Panama: Through the Lens of AgriCulture, Sustainability and Diversity"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10551">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Past, Present and Future of Liverpool"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10454">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Pathways: Walking Through Art and History in Siena"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10401">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Peru: Architecture/Urbanism/Landscape"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10603">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Politecnico di Torino"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10441">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10086">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Portuguese GE Language and Culture in Curitiba, Brazil"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10415">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Psychology and Culture in Europe"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10210">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Public Health Perspectives: Japan"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10335">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Research Central & Eastern Europe in Comparative Perspective - Social Sciences in Warsaw"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10214">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Rikkyo University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10397">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Russia Culture and Society"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10367">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sant'Anna Institute Internship Program in Sorrento, Italy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10412">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "School of Health and Rehabilitation Sciences Merida"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10363">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sciences Po University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10166">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Scientific Roots in Europe"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10215">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Scotland's Ruminants"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10521">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Semester at Sea - Fall Voyage 2018"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10322">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Semester at Sea - Fall Voyage 2019"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10597">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Semester at Sea - Spring Voyage 2019"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10516">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Semester at Sea - Spring Voyage 2020"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10614">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Shanghai Jiao Tong University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10093">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Shanghai, 1750-2050: Chinese Hub Port, Treaty Port, and Global Mega-City"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10178">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Siena Italian Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10094">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Madagascar: Biodiversity and Natural Resource Management"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10044">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Madagascar: Traditional Medicine And Health Care Systems"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10045">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Rwanda: Post-Genocide Restoration and Peacebuilding"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10046">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Senegal: Global Security and Religious Pluralism"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10047">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad South Africa: Community Health and Social Policy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10048">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad South Africa: Education and Social Change"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10049">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad South Africa: Multiculturalism and Human Rights"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10050">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad South Africa: Social and Political Transformation"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10051">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Tanzania: Wildlife Conservation and Political Ecology"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10053">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Tanzania: Zanzibar Coastal Ecology and Natural Resource Management"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10054">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Uganda/Rwanda: Peace and Conflict in the Lake Victoria Basin"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10055">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SIT Study Abroad Uganda: Development Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10056">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Social Issues and Human Rights"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10337">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Social Work in India with a Focus on Health and Mental Health"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10204">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sogang University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10167">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Solar Engineering Service-Learning in Tanzania"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10590">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Soonchunhyang University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10168">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "South Africa: Exotic Animal Behavior and Welfare"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10370">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Space Summer Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10591">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SRAS Russian as a Second Language: Moscow"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10139">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "SRAS Russian as a Second Language: St. Petersburg"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10140">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Summer Course in Modern Greek Studies (THYESPA)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10592">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Summer French at Laval"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10221">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sustainability and Social Justice in Ecuador"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10194">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sustainable and Resilient Infrastructure in Italy"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10348">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Sustainable Resilient Communities - Maji Marwa"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10448">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Taipei National University of the Arts"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10095">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Teaching & Learning Globally in Israel"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10446">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tel Aviv University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10081">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tenri University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10169">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The Brazilian Experience: Surveying Brazilian Culture Through Music and Education"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10195">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The European Model of Sport"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10442">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The History and Archaeology of Medieval Ireland: Trim and the Blackfriary"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10183">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The Italian City"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10569">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies -  Fundamentals of Marine Conservation"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10107">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies -  Marina Megafauna"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10106">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Carnivores of the African Plains"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10111">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Coffee and Chocolate: A Taste of Sustainability"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10110">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Forests in the Land of the Thunder Dragon"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10113">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Fundamentals of Sustainability Research"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10108">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Fundamentals of Wildlife Management"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10112">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies – Marine Resource Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10319">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Rainforests of New Zealand and Australia"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10109">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Sustainable Development Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10315">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies – Tropical Island Biodiversity Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10320">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Tropical Rainforest Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10317">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Watersheds of the Wet Tropics"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10316">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The School for Field Studies - Wildlife Management Studies"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10318">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "The U.S., Europe, And The Second World War- Interactions In 20th Century History"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10184">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tohoku University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10395">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tohoku University (Graduate)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10440">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Trinity Laban Conservatoire of Music and Dance"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10092">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Trondbuss Molecular Genetics"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10369">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tropical Behavioral Ecology and Evolution"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10181">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Tropical Field Ecology in Panama"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10471">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Université de Bourgogne Centre International d'Etudes Françaises (CIEF)"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10088">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Universite de Savoie Mont Blanc"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10170">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Bedfordshire"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10399">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Bonn"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10096">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Glasgow Vet Med FEEPASS Program"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10398">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Mannheim"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10171">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: Arabic Language & Culture in Morocco"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10137">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: MSID Ecuador"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10310">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: MSID Kenya"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10312">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: MSID Senegal"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10313">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: MSID Thailand"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10598">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Minnesota: Study Abroad in Montpellier"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10138">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "University of Tsukuba"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10173">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Uppsala University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10174">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Waseda University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10175">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Why Do We Travel?"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10447">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Yonsei University"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10176">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Zambia Culture and Society"
+   "index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10571">
+  #<Mechanize::Page::Link "Save this program" "javascript:void(0);">
+  #<Mechanize::Page::Link "Share this program" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Give a donation"
+   "https://oia.osu.edu/make-a-donation">
+  #<Mechanize::Page::Link
+   "facebook"
+   "http://www.facebook.com/InternationalAffairsatOhioState">
+  #<Mechanize::Page::Link "twitter" "http://twitter.com/OSUGlobal">
+  #<Mechanize::Page::Link "youtube" "http://www.youtube.com/OhioStateGlobal">
+  #<Mechanize::Page::Link "tumbler" "http://ohiostateglobal.tumblr.com/">
+  #<Mechanize::Page::Link
+   "piscasa"
+   "http://picasaweb.google.com/OSUInternationalAffairs">
+  #<Mechanize::Page::Link "instagram" "http://instagram.com/osuglobal">
+  #<Mechanize::Page::Link "" "https://www.osu.edu/">
+  #<Mechanize::Page::Link
+   "Read cookie policy"
+   "index.cfm?FuseAction=Public.cookiePolicy">}
+ {forms
+  #<Mechanize::Form
+   {name nil}
+   {method "POST"}
+   {action "index.cfm?FuseAction=Programs.InfoRequest"}
+   {fields
+    [hidden:0x2aafeac5c5a0 type: hidden name: Program_IDs value: 10295,10296,10098,10099,10100,10297,10101,10301,10298,10102,10299,10300,10103,10105,10131,10595,10594,10377,10374,10344,10114,10303,10249,10115,10008,10010,10409,10325,10023,10250,10025,10279,10251,10116,10280,10252,10026,10011,10253,10254,10027,10012,10013,10294,10255,10278,10257,10118,10258,10029,10281,10119,10282,10120,10260,10283,10031,10014,10261,10126,10127,10128,10263,10264,10589,10293,10121,10129,10606,10509,10122,10033,10034,10016,10284,10017,10018,10019,10020,10021,10285,10286,10266,10524,10267,10289,10290,10269,10270,10287,10123,10271,10035,10036,10291,10272,10037,10273,10274,10130,10038,10039,10276,10608,10040,10277,10292,10607,10341,10087,10393,10084,10238,10244,10228,10189,10211,10581,10308,10560,10561,10562,10563,10564,10567,10203,10226,10304,10305,10487,10135,10136,10532,10449,10227,10378,10379,10381,10384,10593,10340,10402,10438,10358,10462,10206,10307,10506,10522,10097,10507,10237,10351,10198,10196,10601,10350,10371,10232,10352,10353,10229,10364,10394,10481,10362,10472,10240,10225,10245,10579,10578,10404,10248,10580,10134,10147,10142,10143,10144,10156,10145,10146,10148,10149,10150,10151,10153,10154,10155,10152,10157,10158,10359,10185,10180,10575,10209,10003,10216,10239,10451,10234,10217,10090,10212,10538,10388,10389,10390,10391,10082,10083,10400,10243,10587,10159,10224,10482,10346,10160,10309,10043,10302,10133,10222,10455,10456,10236,10163,10333,10057,10058,10070,10071,10072,10059,10060,10077,10078,10512,10079,10065,10066,10063,10076,10067,10069,10068,10373,10141,10073,10074,10075,10616,10085,10450,10241,10453,10349,10205,10396,10164,10572,10219,10220,10005,10188,10403,10573,10187,10191,10444,10445,10407,10329,10405,10200,10443,10165,10342,10576,10213,10314,10551,10454,10401,10603,10441,10086,10415,10210,10335,10214,10397,10367,10412,10363,10166,10215,10521,10322,10597,10516,10614,10093,10178,10094,10044,10045,10046,10047,10048,10049,10050,10051,10053,10054,10055,10056,10337,10204,10167,10590,10168,10370,10591,10139,10140,10592,10221,10194,10348,10448,10095,10446,10081,10169,10195,10442,10183,10569,10107,10106,10111,10110,10113,10108,10112,10319,10109,10315,10320,10317,10316,10318,10184,10395,10440,10092,10369,10181,10471,10088,10170,10399,10096,10398,10171,10137,10310,10312,10313,10598,10138,10173,10174,10175,10447,10176,10571]
+    [hidden:0x2aafeac5de8c type: hidden name: Info_Request_Verbose value: You searched for <b>Outgoing</b> programs within any term,  sorted by <b>Program name</b> in <b>ascending</b> order.]
+    [hidden:0x2aafeac57154 type: hidden name: Info_Request_Query value: FuseAction=Programs.SearchResults&program_type_id=1&program_active=1&requiredminimumtofindismeet=0&]
+    [hidden:0x2aafeac56754 type: hidden name: token value: DEA1F63F5FA3A6370C0BB5788250DC20637F27BD]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons [button:0x2aafeac45828 type: submit name:  value: ]}>
+  #<Mechanize::Form
+   {name "formShareProgram"}
+   {method "POST"}
+   {action ""}
+   {fields
+    [hidden:0x2aafeac3c368 type: hidden name: saved_pgm_id value: ]
+    [hidden:0x2aafeac35fcc type: hidden name: saved_pgm_name value: ]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons [button:0x2aafeac29f24 type: Button name:  value: ]}>
+  #<Mechanize::Form
+   {name "frm"}
+   {method "POST"}
+   {action "index.cfm?FuseAction=Programs.SaveProgramResults"}
+   {fields
+    [hidden:0x2aafeac071e0 type: hidden name: querystring value: &program_type_id=1&program_active=1&requiredminimumtofindismeet=0&]
+    [hidden:0x2aafeac067a4 type: hidden name: Program_ID value: ]
+    [hidden:0x2aafeac06fc4 type: hidden name: pgmallowed value: ]
+    [hidden:0x2aafeabfdbe0 type: hidden name: token value: DEA1F63F5FA3A6370C0BB5788250DC20637F27BD]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons}>}>
